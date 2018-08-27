@@ -11,3 +11,6 @@ First Day
 - Setting up Google Classroom, GMail, & GitHub
 - Reviewing the Semester Calendar for events and general flow
 - Overview of major projects
+
+Major Projects
+- Rock Paper Scissors (Video Introduction, Maths of 3rds, Coding Random)
