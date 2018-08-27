@@ -8,7 +8,7 @@ Usual Prior Expereince
 
 First Day
 - Reviewing the course outline and syllabus
-- Setting up Google Classroom, GMail, & GitHub
+- Setting up Google Classroom, GMail & Password Manager (Last Pass, KeePass), & GitHub
 - Reviewing the Semester Calendar for events and general flow
 - Overview of major projects
 
