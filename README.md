@@ -13,4 +13,6 @@ First Day
 - Overview of major projects
 
 Major Projects
+- Calculator Problems
+- Maze Solver (what is available, simplest solution)
 - Rock Paper Scissors (Video Introduction, Maths of 3rds similar to Monty Hall Problem, Coding Random)
