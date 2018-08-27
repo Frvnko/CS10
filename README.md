@@ -13,4 +13,4 @@ First Day
 - Overview of major projects
 
 Major Projects
-- Rock Paper Scissors (Video Introduction, Maths of 3rds, Coding Random)
+- Rock Paper Scissors (Video Introduction, Maths of 3rds similar to Monty Hall Problem, Coding Random)
