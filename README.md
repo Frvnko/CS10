@@ -6,12 +6,6 @@ Usual Prior Expereince
 - Scratch (MIT)
 - Simple HTML or CSS
 
-First Day
-- Reviewing the course outline and syllabus
-- Setting up Google Classroom, GMail & Password Manager (Last Pass, KeePass), & GitHub
-- Reviewing the Semester Calendar for events and general flow
-- Overview of major projects
-
 Major Projects
 - Calculator Problems
 - Maze Solver (what is available, simplest solution)
