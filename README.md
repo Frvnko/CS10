@@ -42,7 +42,7 @@ Websites Unit, Introduction to HTML5
 - Choose a Project and create a promotional website for it
    - "Who Am I": UNESCO-style website answering who I am as a culturally-based Canadian Citizen
    - "Writing Project": take a writing project (paragraph or essay) and create an interactive website illustrating writing through definitions, images, videos, and linked web documents (other webpages)
-     - Examplar: Social 30 Essay about World War II ("Holocaust")
+     - Exemplar: Social 30 Essay about World War II ("Holocaust")
 - Optional: 3D JavaScript through Chrome, individual work or Project Work Only
 - Optional: Introduction to Inspecting Elements searching for ideas
 
@@ -53,25 +53,66 @@ General List for App Building (Option of Android-side Loading)
 
 ---
 
-## Website Lessons
+## Website Lessons (Note: all outcomes from CSS1)
+Approximate time: 3 weeks
 
-Introductions to a Browser
+Introductions to a Browser - Specifically Google Chrome (and other exist)
 1. "What else can a browser do?"
    - https://www.makeuseof.com/tag/use-browser-notepad/, accessed 20180905
    - A Browser can be a notepad tool, as long as the tab stays open
+   - Type the following code into the URL Bar
 
    ```html
    data:text/html, <html contenteditable>
    ```
 
-. Pathways inside a computer
-  - Windows, Folders, and Pathways
-. Pathways outside a computer: URLs in name or number
-  - Learning how to read URLs
+   - Uses built-in defaults for font, size, and other formatting rules
+   - Google will spell check all the typing
+   - If Chrome saves tabs (in settings, "Start where you left off"), or you use Workona, Tab will remain ready for notes but typing will disappear
+
+2. Pathways inside a computer
+   - Windows, Folders, and Pathways
+
+3. Pathways outside a computer: URLs in name or number
+   - Learning how to read URLs
+   - Local Scripting: see example of Browser Notepad
+   - Local Hosting: see example of World War II Essay on the Holocaust
+   - Client-server hosting: see below
 
 Exploring & Illustrating Internet and Web Docs Architecture
-- Using CMD through Windows
-- Sending "Packets" or Internet Messages
+- Main Skill Goal: Using CMD through Windows to sending "Packets" or Internet Messages
+- Main Concept Goal: diagram image of Internet Architecture (Google Draw, Paper and Pencil, other methods)
+  1. One diagram for all vocabulary
+  2. Internet Client-Server Requests through 2 stub networks (2x switches with single router)
+- Main Vocabulary for Client-server relationships of Real (MAC) Addressing and Logical Addressing
+  - workstations & NIC Cards (real MAC Address)
+  - stub networks (defined by 1 workstation & switch or 1 workstation & router)
+  - LANs defined by switch
+  - WANs defined by router (edge router)
+  - MANs defined by region or provider
+  - Backbone of Internet defined by "in the wild" routers
+- Main Vocabulary for Internet Services Requests ("all at once" (Netflix), packets (checked))
+  - DNS
+  - Pathways
+  - Browser
+  - EMail Server
+  - Print Server
+- Main Commands Examples for CMD
+  - /? | ?
+  - ping
+  - traceroute
+  - nslookup
+  - Note: https://www.cloudns.net/blog/10-most-used-nslookup-commands/, accessed 20180905
+
+Brief Introduction to Web Documents Design: hypertext (HTTP & HTTPS)
+- Ports for HTTP & HTTPS for IP Sockets
+- Security Protocol of HTTPS
 
 Introductions to Raspberry Pi, "Going Headless", and IP Sockets
 - IP Sockets (IP Address : Port Number) needed to specify packet direction
+
+"Who am I" Project
+- Brainstorm and Record Expectations
+
+"Writing Project"
+- Brainstorm and Record Expectations
