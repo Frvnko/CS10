@@ -6,7 +6,7 @@ Usual Prior Expereince
 - Scratch (MIT)
 - Simple HTML or CSS
 
-See First Day: 
+See First Day: https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day
 
 Major Projects
 - Calculator Problems
