@@ -42,6 +42,7 @@ Websites Unit, Introduction to HTML5
 - Choose a Project and create a promotional website for it
    - "Who Am I": UNESCO-style website answering who I am as a culturally-based Canadian Citizen
    - "Writing Project": take a writing project (paragraph or essay) and create an interactive website illustrating writing through definitions, images, videos, and linked web documents (other webpages)
+     - Examplar: Social 30 Essay about World War II ("Holocaust")
 - Optional: 3D JavaScript through Chrome, individual work or Project Work Only
 - Optional: Introduction to Inspecting Elements searching for ideas
 
@@ -57,6 +58,7 @@ General List for App Building (Option of Android-side Loading)
 Introductions to a Browser
 1. "What else can a browser do?"
    - https://www.makeuseof.com/tag/use-browser-notepad/, accessed 20180905
+   - A Browser can be a notepad tool, as long as the tab stays open
 
    ```html
    data:text/html, <html contenteditable>
