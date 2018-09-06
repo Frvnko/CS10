@@ -6,6 +6,8 @@ Usual Prior Expereince
 - Scratch (MIT)
 - Simple HTML or CSS
 
+See First Day: 
+
 Major Projects
 - Calculator Problems
 - Maze Solver (what is available, simplest solution)
