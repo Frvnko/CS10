@@ -9,6 +9,15 @@ Usual Prior Experience
 ---
 
 See First Day: https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day
+- Main Goals: workstation routine & imaging what algorithms are
+
+See Projects: https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects
+- Main Goal: routines for prototyping & introductions to course ideas
+
+See Creating a Repository in GitHub: https://github.com/MercersKitchen/Computer-Science-Planning/blob/master/Projects/Creating%20a%20GitHub%20Repository.txt
+- Main Goals
+   1. Using GitHub Account and Creating a Repository
+   2. Routine for putting initial files inside and what these might be used for
 
 ---
 
