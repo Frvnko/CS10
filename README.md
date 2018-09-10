@@ -8,8 +8,8 @@ Usual Prior Experience
 
 Table of Content
 - Main Projects: https://github.com/MercersKitchen/CS10#major-projects-planning-algorithms-and-semester-planning
-  - Websites
-  - Computer or Android Apps
+  - Websites: https://github.com/MercersKitchen/CS10#websites-unit-introduction-to-html5
+  - Computer or Android Apps:
 - Website Lessons: https://github.com/MercersKitchen/CS10#website-lessons-note-all-outcomes-from-css1
   - Purpose: Single Page Websites for Promotion of Software hosted with a Service like GitHub
 - Computer App Lessons using Processing-JAVA
@@ -63,6 +63,9 @@ See Creating a Repository in GitHub: https://github.com/MercersKitchen/Computer-
      - Exemplar: Social 30 Essay about World War II ("Holocaust")
 - Optional: 3D JavaScript through Chrome, individual work or Project Work Only
 - Optional: Introduction to Inspecting Elements searching for ideas
+
+### Computer Apps, Introduction to Processing-JAVA
+
 
 ---
 
