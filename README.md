@@ -55,11 +55,6 @@ Websites Unit, Introduction to HTML5
 - Optional: 3D JavaScript through Chrome, individual work or Project Work Only
 - Optional: Introduction to Inspecting Elements searching for ideas
 
-General List for App Building (Option of Android-side Loading)
-- Calculator Problems
-- Maze Solver (what is available, simplest solution)
-- Rock Paper Scissors (Video Introduction, Maths of 3rds similar to Monty Hall Problem, Coding Random)
-
 ---
 
 ## Website Lessons (Note: all outcomes from CSS1)
@@ -125,3 +120,10 @@ Introductions to Raspberry Pi, "Going Headless", and IP Sockets
 
 "Writing Project"
 - Brainstorm and Record Expectations
+
+# Ideas to Include
+
+General List for App Building (Option of Android-side Loading)
+- Calculator Problems
+- Maze Solver (what is available, simplest solution)
+- Rock Paper Scissors (Video Introduction, Maths of 3rds similar to Monty Hall Problem, Coding Random)
