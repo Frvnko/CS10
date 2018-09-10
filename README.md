@@ -12,6 +12,9 @@ Usual Prior Experience
   - Computer or Android Apps:https://github.com/MercersKitchen/CS10#computer-apps-introduction-to-processing-java
 - Website Lessons: https://github.com/MercersKitchen/CS10#website-lessons-note-all-outcomes-from-css1
   - Purpose: Single Page Websites for Promotion of Software hosted with a Service like GitHub
+  - Internet & Web Docs Intro: https://github.com/MercersKitchen/CS10#what-is-the-internet-and-web-documents
+  - "Who Am I" Website Project: https://github.com/MercersKitchen/CS10#introductory-html-with-inline-css-as-a-single-page-website-hosted-locally-on-a-machine-using-github-as-the-version-control
+  - Essay Project: https://github.com/MercersKitchen/CS10#introductory-html-with-inline-css-as-a-single-page-website-hosted-locally-on-a-machine-using-github-as-the-version-control-1
 - Computer App Lessons using Processing-JAVA: https://github.com/MercersKitchen/CS10#computer-app-lessons-using-processing-java
 
 ---
