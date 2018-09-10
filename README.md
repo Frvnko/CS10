@@ -6,6 +6,14 @@ Usual Prior Experience
 - Scratch (MIT)
 - Simple HTML or CSS
 
+Table of Content
+- Main Projects: https://github.com/MercersKitchen/CS10#major-projects-planning-algorithms-and-semester-planning
+  - Websites
+  - Computer or Android Apps
+- Website Lessons: https://github.com/MercersKitchen/CS10#website-lessons-note-all-outcomes-from-css1
+  - Purpose: Single Page Websites for Promotion of Software hosted with a Service like GitHub
+- Computer App Lessons using Processing-JAVA
+
 ---
 
 See First Day: https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day
@@ -22,7 +30,8 @@ See Creating a Repository in GitHub: https://github.com/MercersKitchen/Computer-
 ---
 
 ## Major Projects: Planning Algorithms and Semester Planning
-Websites Unit, Introduction to HTML5
+
+### Websites Unit, Introduction to HTML5
 - Main Goals
   1. GitHub Markdown, with Additional HTML rendered in GitHub ReadMe.md files. Note, other programs use Markdown for formatting a variety of messages. Markdown is much easier to use if you are used to it or have a "Summary Sheet".
      - "Opens a students world to a new type of formatting."
@@ -59,6 +68,8 @@ Websites Unit, Introduction to HTML5
 
 ## Website Lessons (Note: all outcomes from CSS1)
 Approximate time: 3 weeks
+
+### What is the Internet and Web Documents
 
 Introductions to a Browser - Specifically Google Chrome (and other exist)
 1. "What else can a browser do?"
@@ -115,11 +126,17 @@ Brief Introduction to Web Documents Design: hypertext (HTTP & HTTPS)
 Introductions to Raspberry Pi, "Going Headless", and IP Sockets
 - IP Sockets (IP Address : Port Number) needed to specify packet direction
 
+### Introductory HTML with inline CSS as a Single Page Website Hosted Locally on a Machine using GitHub as the Version Control
+
 "Who am I" Project
 - Brainstorm and Record Expectations
 
+### Introductory HTML with inline CSS as a Single Page Website Hosted Locally on a Machine using GitHub as the Version Control
+
 "Writing Project"
 - Brainstorm and Record Expectations
+
+## Computer App Lessons using Processing-JAVA
 
 # Ideas to Include
 
