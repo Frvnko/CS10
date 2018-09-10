@@ -6,13 +6,13 @@ Usual Prior Experience
 - Scratch (MIT)
 - Simple HTML or CSS
 
-Table of Content
+**Table of Content**
 - Main Projects: https://github.com/MercersKitchen/CS10#major-projects-planning-algorithms-and-semester-planning
   - Websites: https://github.com/MercersKitchen/CS10#websites-unit-introduction-to-html5
-  - Computer or Android Apps:
+  - Computer or Android Apps:https://github.com/MercersKitchen/CS10#computer-apps-introduction-to-processing-java
 - Website Lessons: https://github.com/MercersKitchen/CS10#website-lessons-note-all-outcomes-from-css1
   - Purpose: Single Page Websites for Promotion of Software hosted with a Service like GitHub
-- Computer App Lessons using Processing-JAVA
+- Computer App Lessons using Processing-JAVA: https://github.com/MercersKitchen/CS10#computer-app-lessons-using-processing-java
 
 ---
 
