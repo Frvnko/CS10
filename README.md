@@ -135,7 +135,20 @@ Introductions to Raspberry Pi, "Going Headless", and IP Sockets
 ### Introductory HTML with inline CSS as a Single Page Website Hosted Locally on a Machine using GitHub as the Version Control
 
 "Who am I" Project
-- Brainstorm and Record Expectations
+1. Brainstorm and Record Expectations: <a href="">Click Here</a>
+2. Case Study: minimum is an 11x17 with a box illustrating layout and descriptions around explaining content
+   - Note: 2 pieces of paper might be easier to work with
+     - 1 piece of paper for content (word lists, actual text, and ideas for images, videos, audio, and other media)
+     - 1 piece of paper for layout
+3. Creating a GitHub Repository for this Project, learning how to save URLs (& date accessed) with actual files
+   - Note: saving the URL into the REadMe.md file is less memory than saving the downloaded file
+   - CAUTION: if the owner of the image takes it away, it will no longer be on your webpage
+   - Solution: prioritize downloaded pieces and only save the ones you _really_ need
+   - Alternate Solution: create a Google Drive Folder and copy URL to point webpage to
+4. Create a To Do List in the ReadMe.md: rewrite the case study into a sequence of items to do
+   - Must submit Case Study
+   - Must submit GitHub Link
+5. 
 
 ### Introductory HTML with inline CSS as a Single Page Website Hosted Locally on a Machine using GitHub as the Version Control
 
