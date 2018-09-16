@@ -172,7 +172,9 @@ Introductions to Raspberry Pi, "Going Headless", and IP Sockets
       - Able to find this in Developer Tools and the Analyze Button
 7. HTML Lessons for the following HTML Features
    - HTML Tags must be included: `<html>, <head>, <body>`
-   - - `<head>`, <a href="https://www.w3schools.com/html/html_head.asp">Click Here for W3 Schools Reference</a>
+   - `<head>`, <a href="https://www.w3schools.com/html/html_head.asp">Click Here for W3 Schools Reference</a>
+   - `<body>`
+     - <a href="https://github.com/MercersKitchen/CS10#html-layout-elements">Click Here for HTML Layout Notes in this document</a>
 
 #### HEAD Notes
 General List of all HTML `<head>`
