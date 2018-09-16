@@ -150,9 +150,11 @@ Introductions to Raspberry Pi, "Going Headless", and IP Sockets
      - CAUTION: if the owner of the image takes it away, it will no longer be on your webpage
      - Solution: prioritize downloaded pieces and only save the ones you _really_ need
      - Alternate Solution: create a Google Drive Folder and copy URL to point webpage to
-4. Create a To Do List in the ReadMe.md: rewrite the case study into a sequence of items to do
-   - Items must be in hirearchy, per eleemnt or feature
-     - 
+4. Create a To Do List in the ReadMe.md
+   - Rewrite the case study into a sequence of items to do
+   - Items must be in hierarchy, per element or feature
+     - Order of Scroll should match reading a webpage "top to bottom" and "left to right"
+
    - Must submit Case Study
    - Must submit GitHub Link
    - Reminders
