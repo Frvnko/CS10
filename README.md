@@ -159,7 +159,18 @@ Introductions to Raspberry Pi, "Going Headless", and IP Sockets
 5. Reinterpret Case Study into Scrollable Webpage HTML DOC
    - Add additional boilerplate to reimage webpage
    - Reminder: individual elements or features, that should be "left to right" will be that way after CSS Lessons
-6. HTML Lessons for the following HTML Features
+6. Setting up the Chrome Browser for HTML & CSS Validation
+   a. HTML Validation
+      - In Workona, point a TAB to https://validator.w3.org/
+      - Able to validate hosted and local documents
+   b. CSS Validation
+      - In Workona, point a TAB to https://jigsaw.w3.org/css-validator/validator.html.en
+      - Able to validate hosted and local documents
+   c. Accessibility Testing as a Chrome Developer Tool
+      - In the Chrome Store, search for "aXe, Deque Systems" and add it to Chrome
+      - In Chrome/Extensions Settings, allow aXe to access URLs
+      - Able to find this in Developer Tools and the Analyze Button
+7. HTML Lessons for the following HTML Features
    - HTML Tags must be included: `<html>, <head>, <body>`
    - - `<head>`, <a href="https://www.w3schools.com/html/html_head.asp">Click Here for W3 Schools Reference</a>
 
