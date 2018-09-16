@@ -142,21 +142,33 @@ Introductions to Raspberry Pi, "Going Headless", and IP Sockets
      - 1 piece of paper for content (word lists, actual text, and ideas for images, videos, audio, and other media)
      - 1 piece of paper for layout
 3. Creating a GitHub Repository for this Project, learning how to save URLs (& date accessed) with actual files
-   - Note: saving the URL into the REadMe.md file is less memory than saving the downloaded file
-   - CAUTION: if the owner of the image takes it away, it will no longer be on your webpage
-   - Solution: prioritize downloaded pieces and only save the ones you _really_ need
-   - Alternate Solution: create a Google Drive Folder and copy URL to point webpage to
+   - Create basic repository: see Creating a GitHub Repository, <a href="https://github.com/MercersKitchen/Computer-Science-Planning/blob/master/Projects/Creating%20a%20GitHub%20Repository.txt">Click Here</a>
+   - Create the main page called index.html (needed for GitHub Hosting), create a new `*.txt` document and rename it
+   - Add basic boilerplate (typing html in empty .html through WYSIWYG)
+   - Reminder: eventually Web DOCs will be saved here
+     - Note: saving the URL into the REadMe.md file is less memory than saving the downloaded file
+     - CAUTION: if the owner of the image takes it away, it will no longer be on your webpage
+     - Solution: prioritize downloaded pieces and only save the ones you _really_ need
+     - Alternate Solution: create a Google Drive Folder and copy URL to point webpage to
 4. Create a To Do List in the ReadMe.md: rewrite the case study into a sequence of items to do
+   - Items must be in hirearchy, per eleemnt or feature
+     - 
    - Must submit Case Study
    - Must submit GitHub Link
    - Reminders
      - GitHub link to Markdown Review: <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">Click Here</a>
-5. 
+5. Reinterpret Case Study into
 
 ### Introductory HTML with inline CSS as a Single Page Website Hosted Locally on a Machine using GitHub as the Version Control
 
 "Writing Project"
 - Brainstorm and Record Expectations
+
+Ideas
+- take a writing project (paragraph or essay)
+- create an interactive website
+- illustrate webpage features such as definitions, images, videos, and linked web documents (other webpages)
+- also use Browser based Navigation with "open a new tab" in some places but not others
 
 ## Computer App Lessons using Processing-JAVA
 
