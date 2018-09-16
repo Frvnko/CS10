@@ -35,7 +35,7 @@ See Creating a Repository in GitHub: https://github.com/MercersKitchen/Computer-
 ## Major Projects: Planning Algorithms and Semester Planning
 
 ### Websites Unit, Introduction to HTML5
-- Main Goals
+- Main Goals: Promotional Websites to Business-style Websites
   1. GitHub Markdown, with Additional HTML rendered in GitHub ReadMe.md files. Note, other programs use Markdown for formatting a variety of messages. Markdown is much easier to use if you are used to it or have a "Summary Sheet".
      - "Opens a students world to a new type of formatting."
      - "Project External Documentation"
@@ -43,7 +43,7 @@ See Creating a Repository in GitHub: https://github.com/MercersKitchen/Computer-
      - Goal: host at least one through GitHub Website Hosting, further introduction to Google Analytics and Keywords to link to searches
      - Using HTML & inline CSS
      - "The front end of project promotion."
-  3. Modern Examples of Websites worth researching and learning how to code
+  3. Modern Examples of Websites, not promotional or business-style, worth researching and learning how to code
      - Chrome Extensions: HTML5 (often simple JavaScript), make browser do more
      - PWA: Progressive Web Apps, websites that feel like native Android Apps
      - Note: can deploy PWAs through Chrome Extension package (Google This)
@@ -60,10 +60,11 @@ See Creating a Repository in GitHub: https://github.com/MercersKitchen/Computer-
       - Additional Images to see (i.e. links to Google Drive, other social media, or located in GitHub Repository)
       - Additional instructional, etc. videos (i.e. links to YouTube)
       - Note: include all references to external websites: URL & Date Accessed
-- Choose a Project and create a promotional website for it
-   - "Who Am I": UNESCO-style website answering who I am as a culturally-based Canadian Citizen
+- Create two promotional websites
+   - "Who Am I": UNESCO-style website answering who I am as a culturally-based Canadian Citizen, <a href="https://github.com/QEHS-Websites/Intro-Who-Am-I-Project">Click Here for Details</a>
    - "Writing Project": take a writing project (paragraph or essay) and create an interactive website illustrating writing through definitions, images, videos, and linked web documents (other webpages)
-     - Exemplar: Social 30 Essay about World War II ("Holocaust")
+     - <a href="https://github.com/QEHS-Websites/Intro-Essay-Project">Click Here for Details</a>
+     - Exemplar: Social 30 Essay about World War II ("Holocaust"), <a href="">Click Here for Details</a>
 - Optional: 3D JavaScript through Chrome, individual work or Project Work Only
 - Optional: Introduction to Inspecting Elements searching for ideas
 
@@ -134,8 +135,8 @@ Introductions to Raspberry Pi, "Going Headless", and IP Sockets
 
 ### Introductory HTML with inline CSS as a Single Page Website Hosted Locally on a Machine using GitHub as the Version Control
 
-"Who am I" Project
-1. Brainstorm and Record Expectations: <a href="">Click Here</a>
+"Who am I" Project Main Sections
+1. Brainstorm and Record Expectations: <a href="https://github.com/QEHS-Websites/Intro-Who-Am-I-Project#rubric--expectations">Click Here</a>
 2. Case Study: minimum is an 11x17 with a box illustrating layout and descriptions around explaining content
    - Note: 2 pieces of paper might be easier to work with
      - 1 piece of paper for content (word lists, actual text, and ideas for images, videos, audio, and other media)
@@ -148,6 +149,8 @@ Introductions to Raspberry Pi, "Going Headless", and IP Sockets
 4. Create a To Do List in the ReadMe.md: rewrite the case study into a sequence of items to do
    - Must submit Case Study
    - Must submit GitHub Link
+   - Reminders
+     - GitHub link to Markdown Review: <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">Click Here</a>
 5. 
 
 ### Introductory HTML with inline CSS as a Single Page Website Hosted Locally on a Machine using GitHub as the Version Control
