@@ -217,6 +217,18 @@ Ideas
 - illustrate webpage features such as definitions, images, videos, and linked web documents (other webpages)
 - also use Browser based Navigation with "open a new tab" in some places but not others
 
+Ensure following pages and settings are ready in Chrome Browser for HTML & CSS Validation
+a. HTML Validation
+   - In Workona, point a TAB to https://validator.w3.org/
+   - Able to validate hosted and local documents
+b. CSS Validation
+   - In Workona, point a TAB to https://jigsaw.w3.org/css-validator/validator.html.en
+   - Able to validate hosted and local documents
+c. Accessibility Testing as a Chrome Developer Tool
+   - In the Chrome Store, search for "aXe, Deque Systems" and add it to Chrome
+   - In Chrome/Extensions Settings, allow aXe to access URLs
+   - Able to find this in Developer Tools and the Analyze Button
+
 ## Computer App Lessons using Processing-JAVA
 
 # Ideas to Include
