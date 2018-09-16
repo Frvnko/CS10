@@ -160,19 +160,19 @@ Introductions to Raspberry Pi, "Going Headless", and IP Sockets
    - Add additional boilerplate to reimage webpage
    - Reminder: individual elements or features, that should be "left to right" will be that way after CSS Lessons
 6. HTML Lessons for the following HTML Features
-   - HTML Tags must be included: <html>, <head>, <body>
-   - <head>, <a href="https://www.w3schools.com/html/html_head.asp">Click Here for W3 Schools Reference</a>
+   - HTML Tags must be included: `<html>, <head>, <body>`
+   - `<head>`, <a href="https://www.w3schools.com/html/html_head.asp">Click Here for W3 Schools Reference</a>
    - Metadata ideas
      - Always passed as name-value pairs
      - Never displayed in Browser
      - Cross-scripting can happen or JavaScript can access these through DOM Values: <a href="https://www.w3schools.com/jsref/dom_obj_meta.asp">Click Here for W3 Reference</a>
       - <a href="">Click Here for enrichment examples of JavaScript or Cross Scripting Examples</a>
-     - General List of all HTML <head>
+     - General List of all HTML `<head>`
      - General W3 Schools Reference, <a href="https://www.w3schools.com/tags/tag_meta.asp">Click Here</a>
    - List of all meta attributes
      - name="author | description | keywords | viewport" content="": <a href="https://www.w3schools.com/tags/att_meta_name.asp">Click Here for examples from W3 Schools</a>
-     - http-equiv="content-type | default-style |refresh" content="": <a href="https://www.w3schools.com/tags/att_meta_http_equiv.asp">Click Here for examples from W3 Schools</a>
-     - see <a href="https://github.com/QEHS-Websites/Intro-Who-Am-I-Project/tree/master/Pathway%20and%20Files#additional-boilerplate-for-who-am-i--essay-projects-both-introductory-projects">meta examples in this boilerplate</a>
+     - http-equiv="content-type | default-style | refresh" content="": <a href="https://www.w3schools.com/tags/att_meta_http_equiv.asp">Click Here for examples from W3 Schools</a>
+     - see meta examples in <a href="https://github.com/QEHS-Websites/Intro-Who-Am-I-Project/tree/master/Pathway%20and%20Files#additional-boilerplate-for-who-am-i--essay-projects-both-introductory-projects">this boilerplate</a>
 
 #### Enrichment Examples
 
