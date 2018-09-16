@@ -152,14 +152,16 @@ Introductions to Raspberry Pi, "Going Headless", and IP Sockets
      - Alternate Solution: create a Google Drive Folder and copy URL to point webpage to
 4. Create a To Do List in the ReadMe.md
    - Rewrite the case study into a sequence of items to do
-   - Items must be in hierarchy, per element or feature
-     - Order of Scroll should match reading a webpage "top to bottom" and "left to right"
-
-   - Must submit Case Study
-   - Must submit GitHub Link
+   - Items must be in hierarchy, per element or feature: Order of Scroll should match reading a webpage "top to bottom" and "left to right"
+   - Must submit Case Study, Must submit GitHub Link
    - Reminders
      - GitHub link to Markdown Review: <a href="https://github.com/MercersKitchen/Markdown-ReadMe-Documentation">Click Here</a>
-5. Reinterpret Case Study into
+5. Reinterpret Case Study into Scrollable Webpage HTML DOC
+   - Add additional boilerplate to reimage webpage
+   - Reminder: individual elements or features, that should be "left to right" will be that way after CSS Lessons
+6. HTML Lessons for the following HTML Features
+   - Meta Data headings
+   -
 
 ### Introductory HTML with inline CSS as a Single Page Website Hosted Locally on a Machine using GitHub as the Version Control
 
