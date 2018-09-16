@@ -162,17 +162,35 @@ Introductions to Raspberry Pi, "Going Headless", and IP Sockets
 6. HTML Lessons for the following HTML Features
    - HTML Tags must be included: `<html>, <head>, <body>`
    - `<head>`, <a href="https://www.w3schools.com/html/html_head.asp">Click Here for W3 Schools Reference</a>
-   - Metadata ideas
-     - Always passed as name-value pairs
-     - Never displayed in Browser
-     - Cross-scripting can happen or JavaScript can access these through DOM Values: <a href="https://www.w3schools.com/jsref/dom_obj_meta.asp">Click Here for W3 Reference</a>
-      - <a href="">Click Here for enrichment examples of JavaScript or Cross Scripting Examples</a>
-     - General List of all HTML `<head>`
+
+   - General List of all HTML `<head>`
+     - title: title in tab, when added to favorites, displays title in search engine when website is hosted live (i.e. GitHub Hosting)
+
+     - meta: see notes and meta attributes below
+
+
+     - base: for all URLs not defined, this becomes the base URL, for example using Google Drive as a Folder
+
+     - script: used to define JavaScript, client-side, scripts; studied more in Intermediate Website Projects
+
+     - link: use to link external style sheets, studied more in Intermediate Website Projects
+
+     - style: General CSS Style name:values for this webpage, studied more in Intermediate Website Projects
+
+
+     - Metadata Notes
+       - Always passed as name-value pairs
+       - Never displayed in Browser
+       - Cross-scripting can happen or JavaScript can access these through DOM Values: <a href="https://www.w3schools.com/jsref/dom_obj_meta.asp">Click Here for W3 Reference</a>
+       - <a href="">Click Here for enrichment examples of JavaScript or Cross Scripting Examples</a>
+
      - General W3 Schools Reference, <a href="https://www.w3schools.com/tags/tag_meta.asp">Click Here</a>
+
+
    - List of all meta attributes
      - name="author | description | keywords | viewport" content="": <a href="https://www.w3schools.com/tags/att_meta_name.asp">Click Here for examples from W3 Schools</a>
      - http-equiv="content-type | default-style | refresh" content="": <a href="https://www.w3schools.com/tags/att_meta_http_equiv.asp">Click Here for examples from W3 Schools</a>
-     - see meta examples in <a href="https://github.com/QEHS-Websites/Intro-Who-Am-I-Project/tree/master/Pathway%20and%20Files#additional-boilerplate-for-who-am-i--essay-projects-both-introductory-projects">this boilerplate</a>
+     - See HEAD Examples in <a href="https://github.com/QEHS-Websites/Intro-Who-Am-I-Project/tree/master/Pathway%20and%20Files#additional-boilerplate-for-who-am-i--essay-projects-both-introductory-projects">this boilerplate</a>
 
 #### Enrichment Examples
 
