@@ -135,7 +135,7 @@ Introductions to Raspberry Pi, "Going Headless", and IP Sockets
 
 ### Introductory HTML with inline CSS as a Single Page Website Hosted Locally on a Machine using GitHub as the Version Control
 
-#### "Who am I" Project Main Sections
+### "Who am I" Project Main Sections
 1. Brainstorm and Record Expectations: <a href="https://github.com/QEHS-Websites/Intro-Who-Am-I-Project#rubric--expectations">Click Here</a>
 2. Case Study: minimum is an 11x17 with a box illustrating layout and descriptions around explaining content
    - Note: 2 pieces of paper might be easier to work with
@@ -161,36 +161,33 @@ Introductions to Raspberry Pi, "Going Headless", and IP Sockets
    - Reminder: individual elements or features, that should be "left to right" will be that way after CSS Lessons
 6. HTML Lessons for the following HTML Features
    - HTML Tags must be included: `<html>, <head>, <body>`
-   - `<head>`, <a href="https://www.w3schools.com/html/html_head.asp">Click Here for W3 Schools Reference</a>
+   - - `<head>`, <a href="https://www.w3schools.com/html/html_head.asp">Click Here for W3 Schools Reference</a>
 
-   - General List of all HTML `<head>`
-     - title: title in tab, when added to favorites, displays title in search engine when website is hosted live (i.e. GitHub Hosting)
+#### HEAD Notes
+General List of all HTML `<head>`
+- `<title>`: title in tab, when added to favorites, displays title in search engine when website is hosted live (i.e. GitHub Hosting)
+- `<meta>`: see notes and meta attributes below
+- `<base>`: for all URLs not defined, this becomes the base URL, for example using Google Drive as a Folder
+- Other tags studied in Intermediate Website Projects
+  - link: use to link external style sheets
+  - script: used to define JavaScript, client-side, scripts
+  - style: General CSS Style name:values for this webpage
 
-     - meta: see notes and meta attributes below
+Metadata Notes
+- General W3 Schools Reference, <a href="https://www.w3schools.com/tags/tag_meta.asp">Click Here</a>
+- Always passed as name-value pairs
+- Never displayed in Browser
+- Cross-scripting can happen or JavaScript can access these through DOM Values: <a href="https://www.w3schools.com/jsref/dom_obj_meta.asp">Click Here for W3 Reference</a>
+- <a href="">Click Here for enrichment examples of JavaScript or Cross Scripting Examples</a>
 
-
-     - base: for all URLs not defined, this becomes the base URL, for example using Google Drive as a Folder
-
-     - script: used to define JavaScript, client-side, scripts; studied more in Intermediate Website Projects
-
-     - link: use to link external style sheets, studied more in Intermediate Website Projects
-
-     - style: General CSS Style name:values for this webpage, studied more in Intermediate Website Projects
-
-
-     - Metadata Notes
-       - Always passed as name-value pairs
-       - Never displayed in Browser
-       - Cross-scripting can happen or JavaScript can access these through DOM Values: <a href="https://www.w3schools.com/jsref/dom_obj_meta.asp">Click Here for W3 Reference</a>
-       - <a href="">Click Here for enrichment examples of JavaScript or Cross Scripting Examples</a>
-
-     - General W3 Schools Reference, <a href="https://www.w3schools.com/tags/tag_meta.asp">Click Here</a>
-
-
-   - List of all meta attributes
+List of all meta attributes
      - name="author | description | keywords | viewport" content="": <a href="https://www.w3schools.com/tags/att_meta_name.asp">Click Here for examples from W3 Schools</a>
      - http-equiv="content-type | default-style | refresh" content="": <a href="https://www.w3schools.com/tags/att_meta_http_equiv.asp">Click Here for examples from W3 Schools</a>
      - See HEAD Examples in <a href="https://github.com/QEHS-Websites/Intro-Who-Am-I-Project/tree/master/Pathway%20and%20Files#additional-boilerplate-for-who-am-i--essay-projects-both-introductory-projects">this boilerplate</a>
+
+#### HTML Layout Elements
+https://www.w3schools.com/html/html_layout.asp
+
 
 #### Enrichment Examples
 
