@@ -135,7 +135,7 @@ Introductions to Raspberry Pi, "Going Headless", and IP Sockets
 
 ### Introductory HTML with inline CSS as a Single Page Website Hosted Locally on a Machine using GitHub as the Version Control
 
-"Who am I" Project Main Sections
+#### "Who am I" Project Main Sections
 1. Brainstorm and Record Expectations: <a href="https://github.com/QEHS-Websites/Intro-Who-Am-I-Project#rubric--expectations">Click Here</a>
 2. Case Study: minimum is an 11x17 with a box illustrating layout and descriptions around explaining content
    - Note: 2 pieces of paper might be easier to work with
@@ -162,6 +162,9 @@ Introductions to Raspberry Pi, "Going Headless", and IP Sockets
 6. HTML Lessons for the following HTML Features
    - Meta Data headings
    -
+
+#### HTML Scripts and Web Document Links
+
 
 ### Introductory HTML with inline CSS as a Single Page Website Hosted Locally on a Machine using GitHub as the Version Control
 
