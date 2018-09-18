@@ -198,6 +198,7 @@ List of all meta attributes
 - http-equiv="content-type | default-style | refresh" content="": <a href="https://www.w3schools.com/tags/att_meta_http_equiv.asp">Click Here for examples from W3 Schools</a>
 - See HEAD Examples in <a href="https://github.com/QEHS-Websites/Intro-Who-Am-I-Project/tree/master/Pathway%20and%20Files#additional-boilerplate-for-who-am-i--essay-projects-both-introductory-projects">this boilerplate</a>
 
+An Exemplar `<head>` with `<meta>` tags
 ```html
 <meta charset="utf-8">
 
