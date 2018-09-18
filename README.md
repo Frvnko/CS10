@@ -260,16 +260,20 @@ HTML DOM Meta Object Examples
 - Accessing: `var x = document.getElementsByTagName("META")[0];`
 - Creating: `var x = document.createElement("META");`
 
+---
+
 ### Introductory HTML with inline CSS as a Single Page Website Hosted Locally on a Machine using GitHub as the Version Control
 
-"Writing Project"
-- Brainstorm and Record Expectations
-
-Ideas
+**Purpose of this Project**
 - take a writing project (paragraph or essay)
-- create an interactive website
-- illustrate webpage features such as definitions, images, videos, and linked web documents (other webpages)
-- also use Browser based Navigation with "open a new tab" in some places but not others
+- create an interactive website based on a simple HTML and CSS, see summary list (<a href="">Click Here for Summary list</a>)
+- illustrate webpage features such as
+  - text additions and HTML tagged formatting, <a href="">jump to these notes</a>
+  - linked web documents (other webpages), <a href="">jump to these notes</a>
+  - word definitions, <a href="">jump to these notes</a>
+  - images, <a href="">jump to these notes</a>
+  - videos, <a href="">jump to these notes</a>
+- also use Browser based Navigation with "open a new tab" in some places but not others, as a planning item
 
 Ensure following pages and settings are ready in Chrome Browser for HTML & CSS Validation
 1. HTML Validation
@@ -282,6 +286,20 @@ Ensure following pages and settings are ready in Chrome Browser for HTML & CSS V
    - In the Chrome Store, search for "aXe, Deque Systems" and add it to Chrome
    - In Chrome/Extensions Settings, allow aXe to access URLs
    - Able to find this in Developer Tools and the Analyze Button
+
+#### "Writing Project" Steps
+1. Brainstorm and Record Expectations
+2. Create a Repository for this Project
+   - ReadMe.md File, including To Do List
+   - index.html with `<head>`, `<body>`, & `<footer>` additions
+3.
+
+Ideas to Include
+- English Reading Exemplars
+- HTML & CSS Summary Lists
+- See Individual Lessons for - take a writing project (paragraph or essay)
+- illustrate webpage features such as text additions, word definitions, images, videos, and linked web documents (other webpages)
+- also use Browser based Navigation with "open a new tab" in some places but not others
 
 ## Computer App Lessons using Processing-JAVA
 
