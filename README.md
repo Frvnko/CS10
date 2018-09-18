@@ -201,7 +201,7 @@ List of all meta attributes
 #### HTML Layout Elements
 https://www.w3schools.com/html/html_layout.asp
 
-```html5
+```html
 <!-- Review specific tags such as h1-h6, p, & special symbols like &copy-->
 <header><h1>Header Title</h1></header>
     <nav><h1>Navigation</h1></nav>
