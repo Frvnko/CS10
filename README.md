@@ -198,6 +198,29 @@ List of all meta attributes
 - http-equiv="content-type | default-style | refresh" content="": <a href="https://www.w3schools.com/tags/att_meta_http_equiv.asp">Click Here for examples from W3 Schools</a>
 - See HEAD Examples in <a href="https://github.com/QEHS-Websites/Intro-Who-Am-I-Project/tree/master/Pathway%20and%20Files#additional-boilerplate-for-who-am-i--essay-projects-both-introductory-projects">this boilerplate</a>
 
+```html
+<meta charset="utf-8">
+
+<title>Who Am I Project</title>
+
+<meta name="author" content="Jane Doe">
+<meta name="description" content="Example boilerplate for Who am I Project">
+<meta name="keywords" content="boilerplate, starter code">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Content give value for name or http-equiv attribute, text entry in string or array string -->
+
+<!-- meta http-equiv="default-style" content=""--> <!-- content matches css link exactly-->
+
+<!-- Other meta attributes to be aware of -->
+
+<!-- meta http-equiv="refresh" content="30"-->
+<!-- Content forces a Internet Request to refresh webpage every "time value in seconds" -->
+<!-- Use this when refreshes are needed -->
+
+<!-- meta http-equiv="content-type" content="text/html; charset=UTF-8" -->
+<!-- Already specified in the charset above-->
+```
+
 #### HTML Layout Elements
 https://www.w3schools.com/html/html_layout.asp
 
