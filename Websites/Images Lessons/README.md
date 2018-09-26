@@ -200,6 +200,6 @@ The img element is used to provide backward compatibility for browsers that do n
 ---
 
 # Ideas to Include
-
+Use boarder around image divs
 
 ---
