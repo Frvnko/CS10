@@ -82,14 +82,11 @@ General Steps
 
 ### Example: adding the image as a clickable map (create the shape at (0,0) then move the shape, then resize with width and height or diameter)
 - image maps are images with clickable areas
-- to figure out the coordinates, the notations are like Processing-JAVA
-- Rectangle: x, y, width, height
-- Circle: x, y, diameter
-- able to guess and check in browser with mouse-over
-- CAUTION: use style here since .css can override width and height, causing issues with hardcoded mapping
-- But I should test this
-- Original code was width="400" height="379"
-- might need to add inline or floating
+- to figure out the coordinates, the notations are like Processing-JAVA, see summary notes below
+- able to guess and check in browser with mouse-over, also see debugging hint
+- CAUTION: in img use style here since .css tag or separate file can override img tag width and height, causing issues with hardcoded mapping
+  - needs to be tested when writing CSS Files
+- might need to add inline or floating, see more examples below
 
 Summary Notes for Mapped Images
 - Possible Shapes: ```<area shape="default|rect|circle|poly">```
@@ -218,6 +215,6 @@ The img element is used to provide backward compatibility for browsers that do n
 ---
 
 # Ideas to Include
-Use boarder around image divs
+Use boarder around image DIVs
 
 ---
