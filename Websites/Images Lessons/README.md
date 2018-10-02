@@ -183,7 +183,7 @@ img {
 <body style="background-image:url('clouds.jpg')">
 ```
 
-### Example: adding the image to the background of a paragraph tag (CAUTION: decreases contrast)
+### Example: adding the image to the background of a paragraph tag (CAUTION: decreases contrast & readability)
 - Adding a background image to a paragraph
 
 ```HTML
