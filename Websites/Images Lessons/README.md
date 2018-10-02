@@ -91,6 +91,16 @@ General Steps
 - Original code was width="400" height="379"
 - might need to add inline or floating
 
+Summary Notes for Mapped Images
+- Possible Shapes: ```<area shape="default|rect|circle|poly">```
+  - See Mapping Image / index.html for additional notes and format
+  - default: entire region of image
+  - rect: x1,y1,x2,y2	... Specifies the coordinates of the top-left and bottom-right corner of the rectangle (shape="rect")
+  - circle: x,y,radius ... Specifies the coordinates of the circle center and the radius (shape="circle")
+  - poly: x1,y1,x2,y2,..,xn,yn	Specifies the coordinates of the edges of the polygon
+                                - If the first and last coordinate pairs are not the same, the browser will add the last coordinate pair to close the polygon (shape="poly")
+-
+
 ```HTML
 <!DOCTYPE html>
 <html>
