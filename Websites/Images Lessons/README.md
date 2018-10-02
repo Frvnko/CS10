@@ -104,6 +104,11 @@ Summary Notes for Mapped Images
   - others are useful for researching
 - To Create Mapped Images using online tools: Image Map Generator at <a href="https://www.image-map.net/">https://www.image-map.net/</a>
 
+Debugging Hint: use ```shape=```, ```coords=```, ```alt=""```, ```href=""``` and ```target="_blank"```
+- Will open the hyperlink in another window
+- Will show the outline of the frame in the mapped image for adjustments
+- Hint: will help debug polygons
+
 ```HTML
 <!DOCTYPE html>
 <html>
