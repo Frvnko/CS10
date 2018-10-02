@@ -1,6 +1,18 @@
 # Websites: Introductory Websites
 Single Page, HTML-based Webpages
 
+**UNDER CONSTRUCTION**
+
+Concepts
+
+Image Expectations:
+Creating Image Tags
+- File downloaded and optimized for cropping and memory size using online tools
+- URL blockquote-cited with date accessed
+- File commented with origonal dimensions
+- <img> width and height attributes scaled for aspect ratio
+- Any mapped images have style width and height inside img tag
+
 ---
 
 # Ideas
