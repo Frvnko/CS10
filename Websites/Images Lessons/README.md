@@ -97,8 +97,7 @@ Summary Notes for Mapped Images
   - default: entire region of image
   - rect: x1,y1,x2,y2	... Specifies the coordinates of the top-left and bottom-right corner of the rectangle (shape="rect")
   - circle: x,y,radius ... Specifies the coordinates of the circle center and the radius (shape="circle")
-  - poly: x1,y1,x2,y2,..,xn,yn	Specifies the coordinates of the edges of the polygon
-                                - If the first and last coordinate pairs are not the same, the browser will add the last coordinate pair to close the polygon (shape="poly")
+  - poly: x1,y1,x2,y2,..,xn,yn	Specifies the coordinates of the edges of the polygon. If the first and last coordinate pairs are not the same, the browser will add the last coordinate pair to close the polygon (shape="poly")
 -
 
 ```HTML
