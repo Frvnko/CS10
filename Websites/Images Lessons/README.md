@@ -98,7 +98,11 @@ Summary Notes for Mapped Images
   - rect: x1,y1,x2,y2	... Specifies the coordinates of the top-left and bottom-right corner of the rectangle (shape="rect")
   - circle: x,y,radius ... Specifies the coordinates of the circle center and the radius (shape="circle")
   - poly: x1,y1,x2,y2,..,xn,yn	Specifies the coordinates of the edges of the polygon. If the first and last coordinate pairs are not the same, the browser will add the last coordinate pair to close the polygon (shape="poly")
--
+- Possible Targets ```<area target="_blank|_self|_parent|_top|framename"> ```
+  - ```_blank```: opens a new window, uses browser navigation
+  - ```_self```: opens in the same frame, still uses browser navigation
+  - others are useful for researching
+- To Create Mapped Images using online tools: Image Map Generator at <a href="https://www.image-map.net/">https://www.image-map.net/</a>
 
 ```HTML
 <!DOCTYPE html>
