@@ -35,3 +35,7 @@ Create DOC to see H1 - H6 progression and paragraph progression
 Add CSS Borders to "see" HTML Divisions in rendered page's HTML Layout
 
 Use boarder around image divs
+
+See example about JavaScript opening all links in external tabs
+
+See example about JavaScript button showing more information
