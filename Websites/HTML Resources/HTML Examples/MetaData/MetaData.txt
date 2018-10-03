@@ -1,0 +1,10 @@
+﻿Basic Code: HTML Doc & CSS Doc
+•	What is HTML
+•	!DOCTYPE
+•	Metadata
+•	Preparing for HTML & Tag parts with syntax
+•	Head & Titling the Browser Tab
+•	Preparing the body
+
+
+

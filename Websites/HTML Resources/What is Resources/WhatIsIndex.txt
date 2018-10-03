@@ -1,0 +1,6 @@
+Lesson 5
+•	Save the WYSIWYG file as index.html
+•	This means this is the main file. Github looks through a folder of files to search for this one and opens it first
+•	It will be a Landing Page (or other names, like Splash Page, depending on what you have on it. The name tells others your educational background)
+•	Hint: notice the white space
+

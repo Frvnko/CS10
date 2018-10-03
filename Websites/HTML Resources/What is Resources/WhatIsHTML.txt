@@ -1,0 +1,12 @@
+Lesson 1
+•	Q: what does HTML and CSS Stand for
+•	Q: what is the difference between a mark-up language and a computational language
+
+HTML is the language used to create the web pages you visit everyday.
+It provides a logical way to structure content for web pages.
+Let's analyze the acronym "HTML", as it contains a lot of useful information.
+HTML stands for HyperText Markup Language.
+A markup language is a computer language that defines the structure and presentation of raw text.
+Markup languages work by surrounding raw text with information the computer can interpret, "marking it up" for processing.
+HyperText is text displayed on a computer or device that provides access to other text through links, also known as “hyperlinks”.
+

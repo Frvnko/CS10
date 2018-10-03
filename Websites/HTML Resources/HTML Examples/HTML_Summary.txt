@@ -1,0 +1,13 @@
+HTML Summary
+
+1.	You can add headings of different sizes using the different headings elements: <h1> through <h6>.
+2.	Paragraphs are added with the <p> element.
+3.	Unordered lists are created with the <ul> element and list items are added using the <li> element.
+4.	Ordered lists are created with the <ol> element and list items are added using the <li> element.
+5.	You can add links to your web page using the <a> element - don't forget the href attribute!
+6.	Images can be added with the <img> element - don't forget the src attribute!
+7.	Images help support visually impaired users when <img> elements include the altattribute.
+8.	You can turn anything into a link by wrapping it with an <a> element.
+9.	White space in the HTML file does not affect the positioning of elements in the browser.
+10.	The W3C recommends 2 spaces of indentation for nested HTML elements.
+11.	Comments are used to take notes inside of an HTML file. You can add a comment with <!-- This is a comment -->.

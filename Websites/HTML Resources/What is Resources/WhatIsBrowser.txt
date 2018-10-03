@@ -1,0 +1,7 @@
+Lesson 2
+•	Web Browsers: https://en.wikipedia.org/wiki/Web_browser
+•	Find different web browsers, what are the differences
+•	When using most up-to-date languages, browsers are pre-programmed to recognize them.
+        When the “default changes” then your code might break
+•	Declare what language you are using
+

@@ -1,0 +1,14 @@
+HTML Mark-up Lessons, for Introductory
+Example Code for Common HTML Elements
+Examples of Visable Content
+Headings
+Paragraphs
+Lists: unordered & ordered
+Links & more link attributes
+Images
+ALT
+“Linking at Will”
+White Space - in the code and in the HTML
+Line Breaks
+Indentation
+Comments

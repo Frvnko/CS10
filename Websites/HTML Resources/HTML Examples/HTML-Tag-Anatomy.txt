@@ -1,0 +1,6 @@
+HTML tags are made up of a few basic components:
+Angle Brackets (the greater than & less than symbols “<” & “>”) The  “<>” tells the web browser that “this is an html tag.”
+Names: The name of the tag that is usually an abbreviation of a word or phrase that says what it does.
+Attributes: attributes are specific to tags and add additional information telling the browser what to do in the context of that tag.
+Attribute Values: Very specific information for a tag attribute (don’t worry we’ll show you examples)
+Default Values: What the tag will do if no attributes with values are specified.
