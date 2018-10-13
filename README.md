@@ -88,6 +88,8 @@ Introductions to a Browser - Specifically Google Chrome (and other exist)
    data:text/html, <html contenteditable>
    ```
 
+   - See: https://www.makeuseof.com/tag/use-browser-notepad/ for additional ideas on how to make a browser a Notepad
+   
    - Uses built-in defaults for font, size, and other formatting rules
    - Google will spell check all the typing
    - If Chrome saves tabs (in settings, "Start where you left off"), or you use Workona, Tab will remain ready for notes but typing will disappear

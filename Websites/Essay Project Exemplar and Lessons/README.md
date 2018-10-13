@@ -1,6 +1,10 @@
 # Essay Project
 Exemplar and Lessons
 
+For Exemplar and Additional Files, see <a href="https://github.com/QEHS-Websites/Essay-Project-Exemplar">Click Here</a>
+
+---
+
 Checklist: Beginning a Project, <a href="https://github.com/MercersKitchen/CS10/tree/master/Websites/Creating%20Single%20Page%20Webpage"></a>
 - [] Project Folder (GitHub Repository)
 - [] Files: index.html, ReadMe.md
