@@ -80,7 +80,6 @@ Automatic HTML Boilerplate from Atom
 <meta http-equiv="default-style" content=""-->
 ```
 
-- Other meta attributes to be aware of
 - Use when page refreshes are needed, like a business webpage (currently CS20)
 
 ```html
