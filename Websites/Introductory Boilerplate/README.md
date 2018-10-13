@@ -77,7 +77,7 @@ Automatic HTML Boilerplate from Atom
 
 ```html
 <!-- Date Accessed: 20180915 -->
-<blockquote cite="https://www.brainyquote.com/quotes/mitchell_kapor_163583"></blockquote>
+<blockquote cite="https://www.brainyquote.com/quotes/mitchell_kapor_163583">
   <p>
     <em>Getting information off the Internet is like taking a drink from a firehose.<em>
   </p>
@@ -89,7 +89,7 @@ Automatic HTML Boilerplate from Atom
     <strong>
   </p>
   <br>
-  <p>&copy Mark Mercer, powered by MercersKitchen (GitHub)</p>
+</blockquote>
 ```
 
 ---
