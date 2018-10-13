@@ -1,7 +1,7 @@
 # Essay Project
 Exemplar and Lessons
 
-For Exemplar and Additional Files, see <a href="https://github.com/QEHS-Websites/Essay-Project-Exemplar">Click Here</a>
+For Exemplar and Additional Files, see Teacher Repository, <a href="https://github.com/QEHS-Websites/Essay-Project-Exemplar">Click Here</a>
 
 ---
 

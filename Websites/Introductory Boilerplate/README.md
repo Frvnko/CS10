@@ -73,6 +73,27 @@ Automatic HTML Boilerplate from Atom
 </html>
 ```
 
+## Additional Footer Information, a quote demonstrating how to reference others' work through URLs
+
+```html
+<!-- Date Accessed: 20180915 -->
+<blockquote cite="https://www.brainyquote.com/quotes/mitchell_kapor_163583"></blockquote>
+  <p>
+    <em>Getting information off the Internet is like taking a drink from a firehose.<em>
+  </p>
+  <p>
+    <strong>
+      <a href="https://www.brainyquote.com/quotes/mitchell_kapor_163583" target="_blank">
+        Mitchell Kapor
+      <a/>
+    <strong>
+  </p>
+  <br>
+  <p>&copy Mark Mercer, powered by MercersKitchen (GitHub)</p>
+```
+
+---
+
 ## Extra Meta Data Notes: mostly redundant
 - content matches css link exactly
 
