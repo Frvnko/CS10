@@ -4,7 +4,7 @@ Creating Boilerplate
 Steps
 - Create a new text document: Right Click / New / Text Document
 - Rename DOC and File Extension: index.html
-- Add Automatic Boilerplate by typing html in blank .html
+- Add Automatic Boilerplate by typing html in blank .html file
 
 Automatic HTML Boilerplate from Atom
 ```html
@@ -20,7 +20,7 @@ Automatic HTML Boilerplate from Atom
 </html>
 ```
 
-- Add the following tags, layout, and footer elements and symbols
+- Add the following tags, layout, footer elements and special symbols
 
 ```html
 <!DOCTYPE html>
@@ -71,3 +71,13 @@ Automatic HTML Boilerplate from Atom
 
 </html>
 ```
+
+## Extra Meta Data Notes
+
+
+---
+
+# Ideas to Add
+
+
+---
