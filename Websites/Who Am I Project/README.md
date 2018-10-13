@@ -9,6 +9,14 @@ Teacher Repositories for Ideas
 
 ## Expectations
 
+### Beginning Minimum Expectations
+- Create one Repository
+- Create an index.html file: RightClick / New Document / Rename to index.html / Click YES to file extension change
+- Add Introductory Boilerplate: <a href="https://github.com/MercersKitchen/CS10/tree/master/Websites/Introductory%20Boilerplate">Click Here</a>
+- All additional files, downloads and additional content can exist *beside* index.html
+  - Compiler (V8 in Chrome) will automatically find these files and render them in the browser
+- OPTION: add folders for various content (reminder: pathway must reflect this pathway)
+  - See <a href="https://github.com/MercersKitchen/CS10/tree/master/Websites/Creating%20Single%20Page%20Webpage">Click Here</a>
 
 ---
 
