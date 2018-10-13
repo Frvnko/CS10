@@ -36,6 +36,7 @@ Automatic HTML Boilerplate from Atom
     <meta name="description" content=""> <!-- Webpage Description -->
     <meta name="keywords" content=""> <!-- Key Words for conducting searches in Search Engines -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Content gives value for name or http-equiv attribute, text entry for typeof string or array string -->
 
   </head>
 
@@ -72,12 +73,29 @@ Automatic HTML Boilerplate from Atom
 </html>
 ```
 
-## Extra Meta Data Notes
+## Extra Meta Data Notes: mostly redundant
+- content matches css link exactly
 
+```html
+<meta http-equiv="default-style" content=""-->
+```
+
+- Other meta attributes to be aware of
+- Use when page refreshes are needed, like a business webpage (currently CS20)
+
+```html
+<meta http-equiv="refresh" content="30"> <!-- Content forces a Internet Request to refresh webpage every "time value in seconds" -->
+```
+
+- Redundant given boilerplate above
+
+```html
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+```
 
 ---
 
-# Ideas to Add
+# Ideas to Include
 
 
 ---
