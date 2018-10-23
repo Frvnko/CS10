@@ -1,6 +1,15 @@
 # GUI Divisions and Ratios
 Minimum: use fractions to 12
 
+## Using the Consumable
+- Minimum age depends on the level of dexterity (usually grade 4 for multiple folds)
+- Fold to match up the box, not the corners of the paper (possible errors with photocopying on a cylinder)
+- Provides immediate feedback to folder (either looks symmetrical or not)
+- 2D Folds will maintain aspect ratio of original "box shape"
+- Use WORD to approximate the given display-geometry (use displayWidth and displayHeight, outputted to console)
+
+---
+
 ## Notes on Printable
 
 **CATUION**: If this is changed, change the consumable
