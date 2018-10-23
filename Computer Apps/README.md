@@ -8,7 +8,7 @@ Introductory High School Computer Science
 - Create Happy Face with ratios, linear program (Purpose: GUI Design)
 - Reveiw with Paper Folding Activity
 - Create Quit-Button, with ratios, linear program (Purpose: GUI Design)
-  - Start with Paper Folding Activity
+  - Start with Paper Folding Activity, try to get top left courner (same as X in WINDOWS)
 - Use the two programs to change develop understanding of GLobal Variables, setup(), draw(), amd listener or mouseClick()
   - Variables used when code repeats (like circleDiamter for face, eyes, measles; red colout
   - Laying is emphasized with what shapes to draw first
