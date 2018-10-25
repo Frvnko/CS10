@@ -39,3 +39,10 @@ Use boarder around image divs
 See example about JavaScript opening all links in external tabs
 
 See example about JavaScript button showing more information
+
+Add Code Academy Resources
+- HTML, CSS
+- JavaScript
+- Build a Website, Build an Interactive Website
+
+Also check out Khan Academy
