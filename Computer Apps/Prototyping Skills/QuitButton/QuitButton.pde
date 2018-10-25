@@ -1,2 +1,2 @@
 size(500, 600);
-//Using Width and Height Key Varaibles, communciaiton to the display Geometry
+rect(width*15/16, height*0/16, width*1/16, height*1/16);
