@@ -1,6 +1,9 @@
 # Computer Apps
 Introductory High School Computer Science
 
+*** UNDER CONSTRUCTION**
+- <a href="https://drive.google.com/drive/folders/1fLHMpqR808XS4HtZ7TtmOj79rW098NqM">Click Here for Teacher only files</a>
+
 Progressions
 - Developing Boilerplate, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/Boilerplate">Click Here for the pathway</a>
 - Developing GUI Ratios, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/GUI%20Divisions%20and%20Ratios">Click Here</a>
