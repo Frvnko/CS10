@@ -10,7 +10,12 @@ Introductory High School Computer Science
 - Create Quit-Button, with ratios, linear program (Purpose: GUI Design)
   - Start with Paper Folding Activity, try to get top left courner (same as X in WINDOWS)
 - Use the two programs to change develop understanding of Global Variables, setup(), draw(), and listener or mouseClick()
-  - Variables used when code repeats (like circleDiamter for face, eyes, measles; red colout
+  - Variables used when code repeats (like circleDiamter for face, eyes, measles; red colour
   - Laying is emphasized with what shapes to draw first
   - Quit-Button can use a hover-over (introduce decision for fill colours)
   - Quit-Button will be included in Boilerplate as procedure (introducing code written once and used where-ever)
+Happy Face Variables and Comments to make code readable
+- Reminders
+  - size() will separate declarations and assignments
+  - variables with random() assignments will also need to be in the correct void
+- Advanced: creating TABS and procedures to decrease the amount of typing
