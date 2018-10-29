@@ -19,3 +19,6 @@ Happy Face Variables and Comments to make code readable
   - size() will separate declarations and assignments
   - variables with random() assignments will also need to be in the correct void
 - Advanced: creating TABS and procedures to decrease the amount of typing
+- Extra Code for Happy Face, Measles
+  - strokeWieght()
+  - noStroke() & stroke()
