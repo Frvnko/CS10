@@ -23,3 +23,4 @@ Happy Face Variables and Comments to make code readable
   - Use Processing.org to figure these out, <a href="https://processing.org/reference/">Click Here for the Reference Page</a>
   - strokeWieght()
   - noStroke() & stroke()
+- Program uploaded is broken, measles variable
