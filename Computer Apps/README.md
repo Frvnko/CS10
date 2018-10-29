@@ -20,5 +20,6 @@ Happy Face Variables and Comments to make code readable
   - variables with random() assignments will also need to be in the correct void
 - Advanced: creating TABS and procedures to decrease the amount of typing
 - Extra Code for Happy Face, Measles
+  - Use Processing.org to figure these out, <a href="https://processing.org/reference/">Click Here for the Reference Page</a>
   - strokeWieght()
   - noStroke() & stroke()
