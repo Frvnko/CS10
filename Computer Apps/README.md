@@ -31,4 +31,8 @@ Happy Face Variables and Comments to make code readable
   - Use Processing.org to figure these out, <a href="https://processing.org/reference/">Click Here for the Reference Page</a>
   - strokeWieght()
   - noStroke() & stroke()
+  - Explore other processing functions for drawing face (research)
 - Measles Program will break without proper declarations and assignments ( after setup and inside draw() )
+
+Teaching Strategy: 3 Java Compiler needs to run a program (demonstration with no words)
+Teaching Strategy: demo with no words: layering the eye (use 
