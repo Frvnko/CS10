@@ -1,12 +1,20 @@
 # Computer Apps
 Introductory High School Computer Science
 
+Progressions
+- Developing Boilerplate, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/Boilerplate">Click Here for the pathway</a>
+- Developing GUI Ratios, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/GUI%20Divisions%20and%20Ratios">Click Here</a>
+  - Usually done with Measles Project and Quit Button
+- Drawing 2D Shapes, <a href="">Click Here</a>
+- Quit Button, <a href="">Click Here</a>
+- <a href="">Click Here</a>
+<a href="">Click Here</a>
 
 ---
 
 # Ideas to Include
 - Create Happy Face with ratios, linear program (Purpose: GUI Design)
-- Review with Paper Folding Activity
+- Review with Paper Folding Activity (fractions to 16th)
 - Create Quit-Button, with ratios, linear program (Purpose: GUI Design)
   - Start with Paper Folding Activity, try to get top left courner (same as X in WINDOWS)
 - Use the two programs to change develop understanding of Global Variables, setup(), draw(), and listener or mouseClick()
@@ -23,4 +31,4 @@ Happy Face Variables and Comments to make code readable
   - Use Processing.org to figure these out, <a href="https://processing.org/reference/">Click Here for the Reference Page</a>
   - strokeWieght()
   - noStroke() & stroke()
-- Program uploaded is broken, measles variable
+- Measles Program will break without proper declarations and assignments ( after setup and inside draw() )
