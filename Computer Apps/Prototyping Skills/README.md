@@ -23,4 +23,5 @@ Happy Face & Measles: see program for ideas
   - Starting Processing, possible download'
   - Lesson on size(), fullScreen(), print(), displaywidth, displayHeight, ```\n``` and other character escapes
 
+Various Teaching Images to Review, <a href="https://drive.google.com/drive/folders/1jF7fhTiNUM02L22YSlYBXjI7l5XIvw9h">Click Here</a>
 ---
