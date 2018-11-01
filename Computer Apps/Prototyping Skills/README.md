@@ -15,5 +15,12 @@ Happy Face & Measles: see program for ideas
   - Name matches folder
   - void setup()
   - void draw()
+- Rewriting program so variables and comments "read like a book"
+
+  Download Program, Show Reference Page, Start a Canvas
+
+  Beginning Processing Java
+  - Starting Processing, possible download'
+  - Lesson on size(), fullScreen(), print(), displaywidth, displayHeight, ```\n``` and other character escapes
 
 ---
