@@ -65,15 +65,15 @@ Concepts with these examples
 - Drawing 2d Shapes creating a form
 - Layering 2D Shapes to create perspective or action
 - Printing text in rectangles (i.e. DIVs in a webpage)
-- AUtomatically sizing font for text in a webpage
+- Automatically sizing font for text in a webpage
 - Creating mouse-click buttons with hover-over effects, like a quit button
 
 - Inserting images with and without aspect ration
 - Using effects like tint and transparency
 
 Images (needs WHILE Loops, FOR Loops gets too complicated
-- what are the calcualtor steps to make these calculations
+- what are the calculator steps to make these calculations
   to make the image bigger or smaller
 - these steps are repeated
-- these repeatitions are a FOR Loop
+- these repetitions are a FOR Loop
 - Students do this all the time with Guess and Check
