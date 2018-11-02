@@ -11,7 +11,7 @@ Different Program Types
 1. Basic code for text on screen, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/Prototyping%20Skills/AddingText#basic-code-for-text-on-screen">Click Here</a>
 2. Flat Program, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/Prototyping%20Skills/AddingText/Text_Flat">Click Here</a>
    - Explanations Below, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/Prototyping%20Skills/AddingText#adding-text-flat-program">Click Here</a>
-3. Autosizing In Algorithm, <a href="">Click Here</a>
+3. Autosizing In Algorithm, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/Prototyping%20Skills/AddingText#auto-sizing-algorithm-flat">Click Here</a>
    - Explanations Below, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/Prototyping%20Skills/AddingText#auto-sizing-algorithm-flat">Click Here</a>
 4. Procedural Program, Font Size Calculator, <a href="https://github.com/MercersKitchen/CS20/tree/master/Computer%20Apps/Processing-Java%20Prototyping/Text/Text_Function">Click Here</a>
    - Explanations Below, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/Prototyping%20Skills/AddingText#auto-sizing-algorithm-dynamic-see-actual-program-for-procedural">Click Here</a>
