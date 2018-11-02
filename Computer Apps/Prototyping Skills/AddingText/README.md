@@ -1,21 +1,32 @@
 # Adding Text
+Flat, Dynamic, and Procedural
 
+**UNDER CONSTRUCTION**
 
+Table of Contents
+- General Explanations, <a href="">Click Here</a>
+-
 
----
+Different Program Types
+1. Function Choices, <a href="">Click Here</a>
+2. Basic code for text on screen, <a href="">Click Here</a>
+. Flat Program, <a href="">Click Here</a>
+   - Explanations Below, <a href="">Click Here</a>
+. Dynamic Program, <a href="">Click Here</a>
+   - Explanations Below, <a href="">Click Here</a>
+. Procedural Program, Font Size Calculator, <a href="">Click Here</a>
+   - Explanations Below, <a href="">Click Here</a>
 
-# Ideas to included
-CAUTION
+**CAUTION**
 - If text is too small or too big, it will not print
 - This is fixed in Typing Examples from SP2
 
----
+## General Explanations
 
-# Example Code (Read only in ATOM)
 Specific Group of Functions: Printing Text to the Screen – Typography (Search Term)
 - Note: the processing website has excellent progression of explanations with these
 - Getting the typography ready: Menu/Tools/CreatFont
-- Createing the varaible & declaring it: PFont() & createFont():
+- Creating the variable & declaring it: PFont() & createFont():
 - createFont() is better than loadFont() which can only be used in setup
 - Setting up Typography: textAlign()
 - Setting up fullScreen calculations and verifying the fit or use of scalar: textWidth()
@@ -23,20 +34,22 @@ Specific Group of Functions: Printing Text to the Screen – Typography (Search 
   Note: textFont() includes textSize()
 - More advanced features for typography exist
 
-Function Choices
+### Function Choices
+String
 PFont [varaibleName]
 createFont( "name", size) //See Processing.org/reference for other parameters
   //Must be in void setup(){}
 fill( ) //
-textAlign(CENTER)
+textAlign(CENTER, CENTER)
 textFont( variableName, size)
 text( stringVariableName | intVaraible | floatVaraible, x-coord, y-coord, textBoxWidth, textBoxHeight)
 fill() //return fill to previous setting or default setting
 
-Example Script: basic text on screen
-// Title Bar
+## Basic code for text on screen
+
+```java
 fullScreen();
-String title = "Cue Cards";
+String title = "Wahoo!";
 PFont titleFont;
 titleFont = createFont ("Arial-Black", 55); //Copy spelling from CreateFont
 rect (displayWidth*1/4, 0, displayWidth*1/2, displayHeight*1/10); //Title Rectangle
@@ -45,12 +58,42 @@ textAlign (CENTER); //Centered in Rectangle
 textFont(titleFont, 60); // Change the Size number
 text(title, displayWidth*1/4, 0, displayWidth*1/2, displayHeight*1/10); // Title "Cue Cards"
 fill(255); //Reset to white for rest of program
+```
 
-Auto Sizing Algorithm: Flat
+## Adding Text: Flat Program
+
+```java
+//fullScreen();
+size(500, 600);
+String title= "Wahoo!";
+PFont titleFont;
+//String[] fontList = PFont.list(); //To list all fonts available on system
+println("Start of Console");
+//printArray(fontList); //For listing all possible fonts to choose, then createFont
+titleFont = createFont ("Harrington", 55); //Must also Tools / Create Font / Find Font / Do Not Press "OK"
+
+rect(width*1/4, height*0, width*1/2, height*1/10);
+fill(#2C08FF); //Purple Ink, copied from Color Selector
+textAlign (CENTER, CENTER); //Align X&Y, see Processing.org / Reference
+//Values: LEFT | CENTER | RIGHT & TOP | CENTER | BOTTOM | BASELINE
+textFont(titleFont, 50); //Change the number until it fits, largest font size
+text(title, width*1/4, height*0, width*1/2, height*1/10);
+fill(255); //Reset to white for rest of the program
+
+```
+## Auto Sizing Algorithm: Flat
+
+Ensure this matches the actual program
+
+```java
 fullScreen();
-String title = "Cue Cards Study Tool"; //  String must be "long enough"
+String title = "Wahoo!";
 PFont titleFont;
 titleFont = createFont ("Arial-Black", 55); //Copy spelling from CreateFont
+//Verify Font Exists on the System
+String[] fontList = PFont.list(); //To list all fonts available on system
+println("Start of Console");
+printArray(fontList); //For listing all possible fonts to choose, then createFont
 rect (displayWidth*1/4, 0, displayWidth*1/2, displayHeight*1/10); //Title Rectangle
 textFont(titleFont, 40); // Type of font needed for calculation, size needed for function
 textAlign (CENTER);
@@ -65,8 +108,14 @@ textSize (textLength);
 fill (0); //Black Ink
 text(title, displayWidth*1/4, 0, displayWidth*1/2, displayHeight*1/10);
 fill (255);
+```
 
-Auto Sizing: GUI
+## Auto Sizing Algorithm: Dynamic (see actual program for Procedural)
+
+Ensure this matches the actual program
+
+Main Program
+```java
 String title = "Cue Cards Study Tool"; //  String must be "long enough"
 String endCopy = "Bottom of the Page"; //  For second example, String must be "long enough"
 PFont titleFont;
@@ -82,8 +131,10 @@ textSize (textLength);
 fill (0); //Black Ink
 text(title, displayWidth*1/4, 0, displayWidth*1/2, displayHeight*1/10);
 fill (255);
+```
 
-Auto Sizing: return
+Function: returns Font Size
+```java
 float autoSize (String a, int b, int c) {
   textSize (c); // for textWidth() calc
   float textLength_local = b;
@@ -91,8 +142,13 @@ float autoSize (String a, int b, int c) {
     textLength_local = textLength_local*i;
     textSize (textLength_local);
   }
-
   return textLength_local;
 }
+```
+
+---
+
+# Ideas to Include
+
 
 ---
