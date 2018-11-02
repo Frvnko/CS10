@@ -5,6 +5,12 @@ Smaller Programs to illustrate examples, concepts, and remember basic code
 
 Quit Button Teacher Files, <a href="https://drive.google.com/drive/folders/1V_HPscgLpOFraL7TtETbbtGwdvU70Nbt">Click Here</a>
 
+Progression of Concepts and Exemplars
+1. 2D Shapes
+2. Quit Button
+3. Adding Text (no calculator in CS10)
+4. Adding Images
+
 ---
 
 # Ideas to Include
