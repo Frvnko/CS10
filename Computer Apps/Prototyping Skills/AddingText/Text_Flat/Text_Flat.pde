@@ -1,15 +1,16 @@
-// Title Bar
-fullScreen();
-String title = "Cue Cards";
+//fullScreen();
+size(500, 600);
+String title= "Wahoo!";
 PFont titleFont;
-String[] fontList = PFont.list(); // Lists all fonts available on system
+//String[] fontList = PFont.list(); //To list all fonts available on system
 println("Start of Console");
-printArray(fontList); // for listing all possible fonts to choose from, then createFont
-titleFont = createFont ("Arial-Black", 55); //Copy spelling from CreateFont, then press "OK"
-//will create the font
-rect (displayWidth*1/4, 0, displayWidth*1/2, displayHeight*1/10); //Title Rectangle
-fill (0); //Black Ink
-textAlign (CENTER); //Centered in Rectangle
-textFont(titleFont, 60); // Change the Size number
-text(title, displayWidth*1/4, 0, displayWidth*1/2, displayHeight*1/10); // Title "Cue Cards"
-fill(255); //Reset to white for rest of program
+//printArray(fontList); //For listing all possible fonts to choose, then createFont
+titleFont = createFont ("Harrington", 55); //Must also Tools / Create Font / Find Font / Do Not Press "OK"
+
+rect(width*1/4, height*0, width*1/2, height*1/10);
+fill(#2C08FF); //Purple Ink, copied from Color Selector
+textAlign (CENTER, CENTER); //Align X&Y, see Processing.org / Reference
+//Values: LEFT | CENTER | RIGHT & TOP | CENTER | BOTTOM | BASELINE
+textFont(titleFont, 50); //Change the number until it fits, largest font size
+text(title, width*1/4, height*0, width*1/2, height*1/10);
+fill(255); //Reset to white for rest of the program
