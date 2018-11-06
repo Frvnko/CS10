@@ -1,6 +1,5 @@
-PFont titleFont;
-
 // Uses rect() & fill(), both value and default
+
 void text() {
   textAlign (CENTER, CENTER); //Align X&Y, see Processing.org / Reference
   //Values: [LEFT | CENTER | RIGHT] & [TOP | CENTER | BOTTOM | BASELINE]
