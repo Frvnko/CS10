@@ -9,6 +9,8 @@ Progressions
 - Developing GUI Ratios, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/GUI%20Divisions%20and%20Ratios">Click Here</a>
   - Usually done with Measles Project and Quit Button
 - Drawing 2D Shapes, <a href="">Click Here</a>
+  - Happy Face and measles
+  - Snowperson and Celebration Card
 - Quit Button, <a href="">Click Here</a>
 - <a href="">Click Here</a>
 <a href="">Click Here</a>

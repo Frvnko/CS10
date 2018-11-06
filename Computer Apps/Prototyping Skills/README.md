@@ -31,4 +31,8 @@ Happy Face & Measles: see program for ideas
 
 Various Teaching Images to Review, <a href="https://drive.google.com/drive/folders/1jF7fhTiNUM02L22YSlYBXjI7l5XIvw9h">Click Here</a>
 
+Celebration Card:
+- Finish Snowman with 2D Shapes, Quit Button, Text, and Images
+- Make this a Celebration Card & Address it to someone!
+
 ---
