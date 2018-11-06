@@ -10,7 +10,7 @@ void setup() {
   pic2 = loadImage("bike.jpg"); //Dimensions: 860 Width, 529 Height
   //pic3 = loadImage("Obi-wan-star-wars-jedi-23864621-800-600.jpg"); //Dimensions: 800 Width, 600 Height
   
-  //rect(width*1/4, height*0/16, width*0.518, height*0.3233333); 
+  rect(width*1/4, height*0/16, width*0.518, height*0.3233333); 
   image (pic, width*1/4, height*0/16, width*0.518, height*0.3233333); 
   
   rect(width*0, height*1/3, width*0.58139, width*0.58139); 
