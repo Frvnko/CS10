@@ -34,6 +34,7 @@ Specific Group of Functions: Printing Text to the Screen – Typography (Search 
 - More advanced features for typography exist
 
 ### Function Choices
+
 ```java
 PFont [varaibleName]
 createFont( "name", size) //See Processing.org/reference for other parameters
@@ -43,8 +44,7 @@ textAlign(CENTER, CENTER)
 textFont( variableName, size)
 text( stringVariableName | intVaraible | floatVaraible, x-coord, y-coord, textBoxWidth, textBoxHeight)
 fill() //return fill to previous setting or default setting
-```String
-
+```
 
 ## Basic code for text on screen
 
@@ -80,8 +80,8 @@ textAlign (CENTER, CENTER); //Align X&Y, see Processing.org / Reference
 textFont(titleFont, 50); //Change the number until it fits, largest font size
 text(title, width*1/4, height*0, width*1/2, height*1/10);
 fill(255); //Reset to white for rest of the program
-
 ```
+
 ## Auto Sizing Algorithm: Flat
 
 Ensure this matches the actual program
@@ -116,6 +116,7 @@ fill (255);
 Ensure this matches the actual program
 
 Main Program
+
 ```java
 String title = "Cue Cards Study Tool"; //  String must be "long enough"
 String endCopy = "Bottom of the Page"; //  For second example, String must be "long enough"
