@@ -8,7 +8,7 @@ Assignment Combining all Previous Concepts
 
 # Ideas to Include
 Students Demonstrate
-- 2D Shapes ( especially rect() )
+- 2D Shapes ( especially rect() ), <a href="">Click Here</a>
 - Quit Button, <a href="">Click Here</a>
 - Text, <a href="">Click Here</a>
 - Images, <a href="">Click Here</a>
