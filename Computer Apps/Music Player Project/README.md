@@ -33,4 +33,7 @@ Progression
 # Ideas to Include
 Choose Music
 
+GUI to use as example
+- https://www.amazon.co.uk/Mighty-Audio-Spotify-Music-Player-Black/dp/B06XHN35DD
+
 ---
