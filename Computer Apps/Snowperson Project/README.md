@@ -12,8 +12,14 @@ Students Demonstrate
 - Quit Button, <a href="">Click Here</a>
 - Text, <a href="">Click Here</a>
 - Images, <a href="">Click Here</a>
-- Animation, for example snow mimicing Happy Face and Measles, <a href="">Click Here</a>
+- Colour
+- Animation, for example snow mimicking Happy Face and Measles, <a href="">Click Here</a>
+- Random Function: include this to affect a behviour
+  - randomizing colours
 
-Grading will depend on iamgination and creativity, specifically a case study that is differnet than all classroom examples in Mercer's Kitchen
+Extra: connecting mouseX&Y key variables
+- connect to colour changes 
+
+Grading will depend on imagination and creativity, specifically a case study that is different than all classroom examples in Mercer's Kitchen
 
 ---
