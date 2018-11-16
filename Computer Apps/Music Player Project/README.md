@@ -31,9 +31,21 @@ Progression
 ---
 
 # Ideas to Include
-Choose Music
+Choose Music & Sound Effects
+- Minimum 3 songs, content must be owned or freeware
+- Choose or record sound effects
 
 GUI to use as example
 - https://images-na.ssl-images-amazon.com/images/I/81H4RVC1TsL._SL1500_.jpg
+
+Progression
+1. Create GitHub Repository for Music Player (Student Personal Account)
+2. Begin a Case Study
+   - GUI Design
+   - Associated Behaviors: minimum are play, stop, next, previous
+     - This code will create basis for rest of library and other behaviors
+     - Examples: volume, pause, shuffle, show time (total, elapsed), add music (file IO)
+. 
+
 
 ---
