@@ -34,6 +34,6 @@ Progression
 Choose Music
 
 GUI to use as example
-- https://www.amazon.co.uk/Mighty-Audio-Spotify-Music-Player-Black/dp/B06XHN35DD
+- https://images-na.ssl-images-amazon.com/images/I/81H4RVC1TsL._SL1500_.jpg
 
 ---
