@@ -1,10 +1,5 @@
 // Uses rect() & fill(), both value and default
-// TAB used to copy and paste basic code to where text needed
-
-//Reminders
-//String
-//PFont
-//titleFont = createFont ("Harrington", 55);
+// Use this TAB as an example to copy and paste where-ever you need text
 
 void text() {
   textAlign (CENTER, CENTER); //Align X&Y, see Processing.org / Reference

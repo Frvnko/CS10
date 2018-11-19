@@ -53,7 +53,10 @@ Progression
    - See Image
      - ```81H4RVC1TsL._SL1500_.jpg```, <a href="https://images-na.ssl-images-amazon.com/images/I/81H4RVC1TsL._SL1500_.jpg">Click Here for URL</a>
    - Start with Pseudo Code & Comments (add parameters afterwards)
-   - 
+
+**Continue Here**
+
+
 . Layout Button interaction with rect()
   - will need to "turn on and off over lapping rectangles"
   - colour code rect() GUI layout and button-rect() layout to see differences in GUI
