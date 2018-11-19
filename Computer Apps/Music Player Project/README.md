@@ -36,8 +36,8 @@ Choose Music & Sound Effects
 - Choose or record sound effects
 
 GUI to use as example
-- https://images-na.ssl-images-amazon.com/images/I/81H4RVC1TsL._SL1500_.jpg
-- 
+-
+-
 
 Progression
 1. Create GitHub Repository for Music Player (Student Personal Account)
@@ -46,7 +46,24 @@ Progression
    - Associated Behaviors: minimum are play, stop, next, previous
      - This code will create basis for rest of library and other behaviors
      - Examples: volume, pause, shuffle, show time (total, elapsed), add music (file IO)
-. 
+  - Minimum 5 other behaviors needed in a music player
+3. Layout GUI with rectangles
+   - include other 2D Shapes as necessary
+   - might start as functions without parameters, all comments out until parameters added
+   - See Image
+     - ```81H4RVC1TsL._SL1500_.jpg```, <a href="https://images-na.ssl-images-amazon.com/images/I/81H4RVC1TsL._SL1500_.jpg">Click Here for URL</a>
+   - Start with Pseudo Code & Comments (add parameters afterwards)
+   - 
+. Layout Button interaction with rect()
+  - will need to "turn on and off over lapping rectangles"
+  - colour code rect() GUI layout and button-rect() layout to see differences in GUI
+. Prototyping Pieces
+  - Play stop one sound effect
+  - Play-Stop two sound effects (dependent on different buttons)
+  - Play-Stop one song
+  - Play-Stop two separate songs
+  - Next-Previous song (array introduction)
+  - Deal with "Array Index out of Bounds Error"
 
 
 ---
