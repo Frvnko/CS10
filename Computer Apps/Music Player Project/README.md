@@ -37,6 +37,7 @@ Choose Music & Sound Effects
 
 GUI to use as example
 - https://images-na.ssl-images-amazon.com/images/I/81H4RVC1TsL._SL1500_.jpg
+- 
 
 Progression
 1. Create GitHub Repository for Music Player (Student Personal Account)
