@@ -1,4 +1,4 @@
-//Gloabal Variables
+//Global Variables
 
 void setup () {
   size(500, 600);
