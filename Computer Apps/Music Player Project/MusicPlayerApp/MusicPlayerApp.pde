@@ -9,6 +9,7 @@ void setup () {
   titleFont = createFont ("Harrington", 55); //Must also Tools / Create Font / Find Font / Do Not Press "OK"
 
   quitButtonSetup();
+  
 }
 
 void draw() {
