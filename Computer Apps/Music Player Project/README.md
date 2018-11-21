@@ -47,12 +47,15 @@ Progression
      - This code will create basis for rest of library and other behaviors
      - Examples: volume, pause, shuffle, show time (total, elapsed), add music (file IO)
   - Minimum 5 other behaviors needed in a music player
-3. Layout GUI with rectangles
+3. Layout GUI with rectangles and other 2D Shapes
    - include other 2D Shapes as necessary
    - might start as functions without parameters, all comments out until parameters added
    - See Image
      - ```81H4RVC1TsL._SL1500_.jpg```, <a href="https://images-na.ssl-images-amazon.com/images/I/81H4RVC1TsL._SL1500_.jpg">Click Here for URL</a>
    - Start with Pseudo Code & Comments (add parameters afterwards)
+4. Parameters inside all 2D Shapes (to illustrate visual data)
+   - Ratios of width-height or displayWidth-diaplayHeight: uses fractions from case study
+   - Coordinates: requires arithmetic based on fullScreen() or size()
 
 **Continue Here**
 
