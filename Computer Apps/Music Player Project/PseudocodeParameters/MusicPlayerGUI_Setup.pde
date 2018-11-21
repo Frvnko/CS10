@@ -1,12 +1,13 @@
 
 
 void musicPlayerGUI_Setup() {
-  //rect( , , , , 10); // Device Rectangle with rounded courners, need extra 10 pixels
+  rect( width*1/6, height*1/8, width*4/6, height*6/8, 60); // Device Rectangle with rounded courners, need extra 10 pixels
   // Option to put gradient
   
   //Main Button Area, Concentric Rings
-  /*
-  ellipse(); //Outer
+
+  ellipse(width*1/2, height*1/2, width*1/2, width*1/2); //Outer
+    /*
   stroke(); //changes the thickness of the line
   ellipse(); // Middle
   stroke(1); //resets default

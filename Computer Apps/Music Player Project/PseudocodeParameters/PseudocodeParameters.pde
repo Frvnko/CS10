@@ -1,4 +1,5 @@
 //Gloabal Variables
+color white = #FFFFFF;
 
 void setup () {
   size(500, 600);
@@ -9,11 +10,14 @@ void setup () {
   titleFont = createFont ("Harrington", 55); //Must also Tools / Create Font / Find Font / Do Not Press "OK"
 
   quitButtonSetup();
-  musicPlayerGUI_Setup();
+  
 }
 
 void draw() {
+  background(white); 
+  musicPlayerGUI_Setup();
   quitButtonDraw();
+  
 }
 
 void mouseClicked() { 
