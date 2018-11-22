@@ -35,4 +35,12 @@ Celebration Card:
 - Finish Snowman with 2D Shapes, Quit Button, Text, and Images
 - Make this a Celebration Card & Address it to someone!
 
+Returning to Happy Face Measles when working on the Music Player ...
+- use random and button-like inequalities to draw measles into specific parts of the face
+- similar problem to coding mouseClick to specific areas of the screen
+- Need part of a class to update Happy Face code to
+  - proper laying
+  - increased drawing with stroke(), noStroke(), strokeWeight(), and resetting to defaults
+-
+
 ---
