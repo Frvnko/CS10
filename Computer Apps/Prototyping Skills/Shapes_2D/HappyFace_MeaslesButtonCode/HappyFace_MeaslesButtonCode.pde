@@ -34,7 +34,7 @@ void setup() {
   triangle(width*2/4, height*1/3, width*3/4, height*2/3, width*1/4, height*3/4); //nose, broken a little, only place for this formulae
   measlesDiamter = width*1/60; //Other measles varaibles need to be in draw()
   
-  buttonRectangles();
+  //buttonRectangles();
   
 }
 
@@ -44,7 +44,7 @@ void draw() {
   measlesArithmetic();
   
   //Draw Measles
-   drawMeasles();
+   //drawMeasles();
   
 
   //Drawing Second
