@@ -40,14 +40,10 @@ void setup() {
 
 void draw() {
 
-  //Arithmetic First
-  measlesArithmetic();
-  
-  //Draw Measles
-   //drawMeasles();
-  
-
-  //Drawing Second
+  //Arithmetic First, the draw
+  measlesArithmeticDraw();
+   
+  //Drawing Face Second
   fill(white); //White, resetts fill to default
   ellipse(leftEyeX, leftEyeY, eyeDiameter, eyeDiameter);
   ellipse(rightEyeX, rightEyeY, eyeDiameter, eyeDiameter);
