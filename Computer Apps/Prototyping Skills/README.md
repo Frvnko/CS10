@@ -41,6 +41,9 @@ Returning to Happy Face Measles when working on the Music Player ...
 - Need part of a class to update Happy Face code to
   - proper laying
   - increased drawing with stroke(), noStroke(), strokeWeight(), and resetting to defaults
--
+
+Happy Face Measles with Button Code
+- Purpose: to understand why random() is producing a rectangle
+- Introduction to sub programs (repeated code), knowing how to copy and paste without copying and pasting
 
 ---
