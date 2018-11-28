@@ -57,6 +57,8 @@ Progression
    - Ratios of width-height or displayWidth-diaplayHeight: uses fractions from case study
    - Coordinates: requires arithmetic based on fullScreen() or size()
 
+Create New with Minim
+
 **Continue Here**
 
 
