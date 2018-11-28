@@ -3,18 +3,19 @@ void musicPlayerGUI_Setup() {
   // Option to put gradient
 
   //Main Button Area, Concentric Rings
-
+  fill(random(255), random(255), random(255));
   ellipse(width*1/2, height*1/2, width*1/2, width*1/2); //Outer
-  /*
-  stroke(); //changes the thickness of the line
-   ellipse(); // Middle
-   stroke(1); //resets default
-   ellipse(); //Inside
-   //Option to fill with different colours
-   //fill(); //reminder: reset to defaults each time
-   */
+  strokeWeight(10); //changes the thickness of the line
+  fill(random(255), random(255), random(255));
+  ellipse(width*1/2, height*1/2, width*1/2-width*1/20, width*1/2-width*1/20); // Middle
+  strokeWeight(1); //resets default
+  fill(255);
+  ellipse(width*1/2, height*1/2, width*1/2-width*1/10, width*1/2-width*1/10); //Inside
+  //Option to fill with different colours
+  //fill(); //reminder: reset to defaults each time
 
-  //Play-Pause Button
+
+  //Play-Stop Button
   if (mouseX>width*7/16 && mouseX<width*9/16 && mouseY>height*7/16 && mouseY<height*9/16) {
     fill(hoverOverButton);
     rect(width*1/2-width*1/16, height*1/2-height*1/16, width*2/16, height*2/16, 15); //Courners Rounded more than Outer Rectangle, change?
@@ -23,11 +24,12 @@ void musicPlayerGUI_Setup() {
     rect(width*1/2-width*1/16, height*1/2-height*1/16, width*2/16, height*2/16, 15); //Courners Rounded more than Outer Rectangle, change?
   }
 
-  //triangle(); //Notice X&Y Coordinates
-  //line();
-  //line(); 
+  fill(0);
+  triangle(width*1/2-width*1.5/40, height*1/2-height*1/40, width*1/2, height*1/2, width*1/2-width*1.5/40, height*1/2+height*1/40); //Notice X&Y Coordinates
+  rect(width*1/2+width*1/50, height*1/2-height*1/40, width*1/40, height*2/40); //Square for Stop
+  fill(255);
 
-  //Mext and Previous Buttons
+  //Next and Previous Buttons
   /*
   triangle(); //Next Button
    triangle(); 
