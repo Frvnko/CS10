@@ -16,7 +16,6 @@ Sections
 - Getting the Minim Library, installation and selected examples<a href="">Click Here</a>
 
 - <a href=""></a>
-<a href=""></a>
 
 ## Summary of Minim Functions
 
