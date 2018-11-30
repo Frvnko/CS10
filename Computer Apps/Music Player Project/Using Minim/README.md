@@ -47,6 +47,10 @@ List of Programs and Order to Reference
 
 # Include This
 
+## Questions to answer from code
+- AudioPlayer creates classes, do classes need to be loaded to an arrayList or an array
+
+
 Lines of Code from PlayAFile
 ```java
 import ddf.minim.*;
@@ -89,7 +93,27 @@ void keyPressed() {
 
 Lines of Code from pause
 ```java
+import ddf.minim.*;
 
+Minim minim;
+AudioPlayer groove;
+
+minim = new Minim(this);
+groove = minim.loadFile("groove.mp3", 2048);
+groove.loop();
+
+void keyPressed()
+{
+  if ( groove.isPlaying() )
+  {
+    groove.pause();
+  }
+  else
+  {
+    // simply call loop again to resume playing from where it was paused
+    groove.loop();
+  }
+}
 ```
 
 
