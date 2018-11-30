@@ -17,6 +17,13 @@ Sections
 
 - <a href=""></a>
 
+Prototype how to use Minim
+- Loading songs
+- playing songs and checking to see if song is playing (pause)
+- stopping a song
+- Option: previous song and next song
+
+
 ## Summary of Minim Functions
 
 1.
