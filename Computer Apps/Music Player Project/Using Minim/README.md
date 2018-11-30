@@ -13,7 +13,7 @@ Web Presence: http://code.compartmental.net/minim/
 Sections
 - Summary of functions, in a general learning order, <a href="">Click Here</a>
 - Summary of functions, in a general learning order, <a href="">Click Here</a>
-- Getting the Minim Library, installation and selected examples<a href="">Click Here</a>
+- Getting the Minim Library, installation and selected examples <a href="">Click Here</a>
 
 - <a href=""></a>
 
