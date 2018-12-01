@@ -14,9 +14,11 @@ Sections
 - Summary of functions, in a general learning order, <a href="">Click Here</a>
 - Summary of functions, in a general learning order, <a href="">Click Here</a>
 - Getting the Minim Library, installation and selected examples <a href="">Click Here</a>
-- Playing a Single Song, control in console, <a href="">Click Here for Explanation</a>, <a href="">Click Here for Program</a>
+- Playing a Single Song, control in console
   - Note: Console Output introduces Boolean influence of draw() and visual data or GUI
   - Also adds debugging ability
+  - <a href="">Click Here for Explanation of the IF Code Snippet</a>
+  - <a href="">Click Here for an example Program</a>
 - <a href=""></a>
 
 Prototype how to use Minim
@@ -25,11 +27,55 @@ Prototype how to use Minim
 - stopping a song
 - Option: previous song and next song
 
+Choosing Music (Minimum 3 songs and 1 sound effect)
+- What is the emotion you want to create or influence in others? (Notice their response is very different than influence or choice)
+- Must use content you own, should be in .mp3 format
+- Available formats: WAV, AIFF, AU, SND, and MP3
+- Possible Site: <a href="https://www.youtube.com/audiolibrary/music">YouTube's Audio Library</a>
 
 ## Summary of Minim Functions
 
-1.
+### Example Variable Types
+- ```Minim minim;```
+- ```AudioPlayer player;```
+  - Can be single file or array to hold more than one song or sound effect
+- 
 
+### Single Functions
+1. ```import ddf.minim.*;``` Connects Program to Processing IDE (must add Minim Library)
+. ```minim = new Minim(this);``` Allows Minim to load data from data directory (pathway or folder in project folder), loadFile should also load from project folder
+. ```player = minim.loadFile("groove.mp3");```
+   - Loading a single file to this AudioPlayer
+   - see http://code.compartmental.net/minim/minim_method_loadfile.html
+   - Examples
+     - AudioPlayer loadFile(String filename)
+     - AudioPlayer loadFile(String filename, int bufferSize)
+. ```player.isPlaying()``` Boolean returns true, used in Play-Pause Snippet, and other places, See http://code.compartmental.net/minim/audioplayer_method_isplaying.html
+. ```player.play();``` Starts playback from current position, see http://code.compartmental.net/minim/audioplayer_method_play.html
+   - Examples
+     - void play()
+     - void play(int millis) // Number of milliseconds from the beginning of the song
+. ```player.pause();``` See http://code.compartmental.net/minim/audioplayer_method_pause.html
+. ```player.rewind();``` Does not stop playback, see http://code.compartmental.net/minim/audioplayer_method_rewind.html
+. ```player.position()```
+   - Current time position of file in milli seconds (i.e. how much of the sound has already been played)
+   - able to be a variable ```int position```
+   - See http://code.compartmental.net/minim/audioplayer_method_position.html
+. ```player.length()``` Full length of file, see http://code.compartmental.net/minim/audiometadata_method_length.html
+
+### Code Snippets
+
+Play-Pause, IF Statement
+```java
+if ( player.isPlaying() ) { //Either true of false, player class from gloabal variables
+      player.pause();
+    } else if ( player.position() == player.length() ) { //Example of loop when player is at end of file, rewind and continue playing
+      player.rewind();
+      player.play();
+    } else {
+      player.play();
+    }
+```
 ## Getting the Minim Library
 
 ### Installing the Library
@@ -133,5 +179,20 @@ void keyPressed()
 }
 ```
 
+---
+
+Teacher Only File Links
+-
 
 ---
+
+Future Considerations, from past notes
+
+To Do List
+- Put in sound effects music; use "W" to switch between songs and sound effects
+- Put in a loop with Math.random(), returns a float
+- Use tiles to store a specific list number
+  CAUTION: if lists are different, all drawing and BooleanBoxes
+           must reflect this
+  CAUTION: post-procedural algorithm
+- Change IF-Statements to Switch-Case-Break-Default
