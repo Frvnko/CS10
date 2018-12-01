@@ -14,7 +14,9 @@ Sections
 - Summary of functions, in a general learning order, <a href="">Click Here</a>
 - Summary of functions, in a general learning order, <a href="">Click Here</a>
 - Getting the Minim Library, installation and selected examples <a href="">Click Here</a>
-
+- Playing a Single Song, control in console, <a href="">Click Here for Explanation</a>, <a href="">Click Here for Program</a>
+  - Note: Console Output introduces Boolean influence of draw() and visual data or GUI
+  - Also adds debugging ability
 - <a href=""></a>
 
 Prototype how to use Minim
@@ -50,6 +52,13 @@ List of Programs and Order to Reference
 - <a href="">Click Here</a>
 - **In Progress**
 - <a href=""></a>
+
+Note about programs: all contain a 2D graph, similar to a synthesizer
+- Interesting addition some students want to code (illustrated in case studies)
+
+## Playing a Single Song, control in console
+
+
 
 ---
 
