@@ -39,7 +39,7 @@ Choosing Music (Minimum 3 songs and 1 sound effect)
 - ```Minim minim;```
 - ```AudioPlayer player;```
   - Can be single file or array to hold more than one song or sound effect
-- 
+-
 
 ### Single Functions
 1. ```import ddf.minim.*;``` Connects Program to Processing IDE (must add Minim Library)
@@ -65,9 +65,17 @@ Choosing Music (Minimum 3 songs and 1 sound effect)
 
 ### Code Snippets
 
+Review void keyPressed
+```java
+void keyPressed() {
+  //void keyPressed() contains Boolean keyPressed so no check whether a key is recently pressed, filling key, is necessary with a listener
+  if (key == 'p' || key == 'P') {} //Empty IF, see program examples for more details
+}
+```
+
 Play-Pause, IF Statement
 ```java
-if ( player.isPlaying() ) { //Either true of false, player class from gloabal variables
+if ( player.isPlaying() ) { //Either true of false, player class from global variables
       player.pause();
     } else if ( player.position() == player.length() ) { //Example of loop when player is at end of file, rewind and continue playing
       player.rewind();

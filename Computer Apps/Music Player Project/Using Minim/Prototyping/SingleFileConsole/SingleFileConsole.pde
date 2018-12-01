@@ -34,9 +34,9 @@ void draw() {
 }
 
 void keyPressed() {
-  //void keyPressed contains Boolean keyPressed so no ckeck is necessary with a listener
+  //void keyPressed() contains Boolean keyPressed so no check whether a key is recently pressed, filling key, is necessary with a listener
   if (key == 'p' || key == 'P') {
-    if ( player.isPlaying() ) { //Either true of false, player class from gloabal variables
+    if ( player.isPlaying() ) { //Either true of false, player class from global variables
       player.pause();
     } else if ( player.position() == player.length() ) { //Example of loop when player is at end of file, rewind and continue playing
       player.rewind();

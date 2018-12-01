@@ -28,6 +28,8 @@ Progression
    - See <a href="https://www.youtube.com/audiolibrary/music">YouTube Audio Library</a>
 .  
 
+Note: Able to Create a Promotional Webpage for your Music Player
+
 ---
 
 # Ideas to Include
