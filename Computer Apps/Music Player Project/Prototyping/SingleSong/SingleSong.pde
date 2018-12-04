@@ -29,16 +29,13 @@ void mousePressed() {
 
 void keyPressed() {
   if (key == 'p' || key == 'P') {
-    if ( song1.isPlaying() ) {}
-    
+    if ( song1.isPlaying() ) {
+      song1.pause();
+    } else if ( song1.position() == song1.length() ) {
+      song1.rewind();
+      song1.play();
+    } else {
+      song1.play();
+    }
   }
-
-
-
-  song1.isPlaying()
-
-    song1.pause()
-
-    song1.rewind();
-  song1.play();
 }
