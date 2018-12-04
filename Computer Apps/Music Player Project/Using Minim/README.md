@@ -22,9 +22,9 @@ Sections
 - <a href=""></a>
 
 Prototype how to use Minim
-- Loading songs and playing a single song, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/Music%20Player%20Project/Prototyping/SingleSong">Click Here to see code to play one song or sound effect</a>
-- playing songs and checking to see if song is playing (pause)
-- stopping a song
+- Loading songs and for a single song, play, pause, and rewind to play again, like a loop; <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/Music%20Player%20Project/Prototyping/SingleSong">Click Here to see code</a>
+  - asks a question: is the song playing
+- stopping a song so the song can be played from the beginning
 - Option: previous song and next song
 
 Choosing Music (Minimum 3 songs and 1 sound effect)
