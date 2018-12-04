@@ -23,9 +23,23 @@ Sections
 
 Prototype how to use Minim
 - Loading songs and for a single song, play, pause, and rewind to play again, like a loop; <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/Music%20Player%20Project/Prototyping/SingleSong">Click Here to see code</a>
-  - asks a question: is the song playing
-- stopping a song so the song can be played from the beginning
-- Option: previous song and next song
+  - Example algorithm
+  - Ask a question: is the song playing
+  - IF Statements will recognize answers of TRUE and FALSE (Yes or No)
+  - TRUE: pause the song in the place is was playing
+  - FALSE:
+    - Play the song
+    - Is the song at the end? Then rewind and play the song again
+- Stopping a song so the song can be played from the beginning
+  - Example algorithm
+    - Ask a question: is the song playing
+    - TRUE: pause the song, rewind the song
+    - FALSE: rewind the song
+- Option: previous song and next song (Introduction to Arrays in CS20)
+  - Load Multiple Songs to an Array
+  - Use Index with Catch for Array Index out of Bounds
+
+Learning to integrate the GUI with Prototyped Programs for Minim
 
 Choosing Music (Minimum 3 songs and 1 sound effect)
 - What is the emotion you want to create or influence in others? (Notice their response is very different than influence or choice)
