@@ -89,7 +89,7 @@ Introductions to a Browser - Specifically Google Chrome (and other exist)
    ```
 
    - See: https://www.makeuseof.com/tag/use-browser-notepad/ for additional ideas on how to make a browser a Notepad
-   
+
    - Uses built-in defaults for font, size, and other formatting rules
    - Google will spell check all the typing
    - If Chrome saves tabs (in settings, "Start where you left off"), or you use Workona, Tab will remain ready for notes but typing will disappear
@@ -311,3 +311,8 @@ General List for App Building (Option of Android-side Loading)
 - Calculator Problems
 - Maze Solver (what is available, simplest solution)
 - Rock Paper Scissors (Video Introduction, Maths of 3rds similar to Monty Hall Problem, Coding Random)
+
+Music Player
+- Owning own content
+- Permissions to device are what you program
+- Able to setup a music server and have your device (what you program) access this server (using Minim)
