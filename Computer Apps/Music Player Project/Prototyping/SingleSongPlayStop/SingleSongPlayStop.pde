@@ -18,7 +18,8 @@ void setup() {
 
   println("Start of Console");
   println("Click the Console to Finish Starting this program");
-  println("Press P to Play and Pause");
+  println("Press P to Play and Pause, will rewind when at the end");
+  println("Press S to Stop and rewind to the beginning");
 }
 
 void draw() {
