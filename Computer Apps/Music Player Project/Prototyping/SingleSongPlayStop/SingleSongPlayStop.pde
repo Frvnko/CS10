@@ -28,14 +28,15 @@ void mousePressed() {
 }
 
 void keyPressed() {
-  if (key == 'p' || key == 'P') {
+  if (key == 'p' || key == 'P') { //Play-Pause
+    //Add this code from the previous prototype of Play-Pause
+  }
+  if (key == 's' || key == 'S') {//Stop
     if ( song1.isPlaying() ) {
       song1.pause();
-    } else if ( song1.position() == song1.length() ) {
       song1.rewind();
-      song1.play();
-    } else {
-      song1.play();
+    } else { //Song is not playing
+      song1.rewind();
     }
   }
 }
