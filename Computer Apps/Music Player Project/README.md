@@ -81,5 +81,10 @@ Learning Objective: prototype how to use Minim
   - Next-Previous song (array introduction)
   - Deal with "Array Index out of Bounds Error"
 
+Music Player Project
+- Code a Music player
+- Create a Server with Music on it
+- Point the Music Player to the Server to Stream Music (using Minim Library)
+
 
 ---
