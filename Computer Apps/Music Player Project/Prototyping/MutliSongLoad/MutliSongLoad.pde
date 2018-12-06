@@ -8,13 +8,16 @@ import ddf.minim.ugens.*;
 
 //Global Variables
 Minim minim;
-AudioPlayer song1;
+int numberOfSongs = 3;
+AudioPlayer[] song = new AudioPlayer[numberOfSongs];
 
 void setup() {
   //size(): Console output, not visual data, text promptos only, not complete yet
 
   minim = new Minim(this); //load from data directory, loadFile should also load from project folder
-  song1 = minim.loadFile("groove.mp3");
+  song[0] = minim.loadFile("groove.mp3");
+  song[1] = minim.loadFile("Beat_Your_Competition.mp3");
+  song[2] = minim.loadFile("The_Simplest.mp3");
 
   println("Start of Console");
   println("Click the Console to Finish Starting this program");
@@ -28,14 +31,15 @@ void mousePressed() {
 }
 
 void keyPressed() {
+  int currentSong = 3; //Must match array variable numberOfSongs
   if (key == 'p' || key == 'P') {
-    if ( song1.isPlaying() ) {
-      song1.pause();
-    } else if ( song1.position() == song1.length() ) {
-      song1.rewind();
-      song1.play();
+    if ( song[currentSong].isPlaying() ) {
+      song[currentSong].pause();
+    } else if ( song[currentSong].position() == song[currentSong].length() ) {
+      song[currentSong].rewind();
+      song[currentSong].play();
     } else {
-      song1.play();
+      song[currentSong].play();
     }
   }
 }
