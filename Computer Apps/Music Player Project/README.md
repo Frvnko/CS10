@@ -86,5 +86,20 @@ Music Player Project
 - Create a Server with Music on it
 - Point the Music Player to the Server to Stream Music (using Minim Library)
 
+Next Button
+- Concepts
+  - Adding one
+  - Array out of bounds error when adding one
+- Solution: code the next song, when playing or cued the last song, to be the first song
+
+Previous or Back Button
+- Opposite of the Next Button
+
+Put all console into buttons of GUI
+
+Mini lessons on Extra Minim Programs downloaded, exploring the Examples loaded when using Minim
+- See File / Examples / Contributed Library / Basics
+- See File / Examples / Contributed Library / AudioPlayer
+- Able to explore other examples of Minim Code and Behaviours
 
 ---
