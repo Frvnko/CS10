@@ -118,4 +118,7 @@ Mini lessons on Extra Minim Programs downloaded, exploring the Examples loaded w
 - See File / Examples / Contributed Library / AudioPlayer
 - Able to explore other examples of Minim Code and Behaviours
 
+Lesson: one button for play-pause, one button for sound effect and exit()
+
+
 ---
