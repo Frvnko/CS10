@@ -3,6 +3,16 @@ Building a Music Player, including free or owned content
 
 **All Projects moving forward should include sound effects, perhaps some music**
 
+Music Player Main Purposes
+- Creation of app with feature list
+- Ownership of data and permissions to device features
+- Side-loading to various devices using Ketai Library and Processing-Android
+
+Represents our first cross-curricular project
+- Computer Science: native prototyping
+- Art and Design: material's design, colour palate
+- Music and Drama: playlists and acoustics
+
 **UNDER CONSTRUCTION**
 
 Purpose: to design an Android App that plays music
@@ -10,6 +20,12 @@ Purpose: to design an Android App that plays music
   Play, Stop, Next Song, Previous Song
 - Important information is near the top (where eyes are)
 - Secondary information and buttons are near the bottom
+
+Overview
+- Case Study
+- Prototype Functionality
+- Incorporate Material's Design, Colour Palate, etc. for themed elegance
+- Incorporate musical theory to match playlists to all the above
 
 Progression
 1. Choose at least 3 different songs
