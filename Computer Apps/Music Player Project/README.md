@@ -120,5 +120,6 @@ Mini lessons on Extra Minim Programs downloaded, exploring the Examples loaded w
 
 Lesson: one button for play-pause, one button for sound effect and exit()
 
+Lesson: putting all console prototyping together
 
 ---
