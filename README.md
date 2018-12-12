@@ -316,3 +316,20 @@ Music Player
 - Owning own content
 - Permissions to device are what you program
 - Able to setup a music server and have your device (what you program) access this server (using Minim)
+- Is like a four week final exam: build and debug based on
+  - Previously written code
+  - GitHub Resources
+  - Online Resources
+  - Minim Web presence and resources
+  - Asking friends
+  - Asking Melanie
+  - *If you want for Mr. Mercer to answer you questions and debug code* you will use a lot of class time and eventually not have time to finish your final project
+- Side loading to a device 
+- Using a RPi (or similar) Server
+
+Individual Project using the Music Player
+
+
+  ```
+
+  ```
