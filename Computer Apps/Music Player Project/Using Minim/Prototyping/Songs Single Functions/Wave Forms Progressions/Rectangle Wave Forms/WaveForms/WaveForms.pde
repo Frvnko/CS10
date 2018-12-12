@@ -11,7 +11,7 @@ Minim minim;
 AudioPlayer song1;
 
 void setup() {
-  size(512, 200); //Console output, not visual data, text promptos only, not complete yet
+  size(712, 250); //Console output, not visual data, text promptos only, not complete yet
   //Might need to add parametery, like size(512, 200, P3D);
   
   minim = new Minim(this); //load from data directory, loadFile should also load from project folder
@@ -33,16 +33,16 @@ void draw() {
   
   for(int i = 0; i < song1.bufferSize() - 1; i++)
   {
-    float x1 = map( i, 0, song1.bufferSize(), 0, 512 ); //Width=512
-    float x2 = map( i+1, 0, song1.bufferSize(), 0, 512 ); //Width=512
+    float x1 = map( i, 0, song1.bufferSize(), 100, 612 );
+    float x2 = map( i+1, 0, song1.bufferSize(), 100, 612 );
     line( x1, 50 + song1.left.get(i)*50, x2, 50 + song1.left.get(i+1)*50 );
     line( x1, 150 + song1.right.get(i)*50, x2, 150 + song1.right.get(i+1)*50 );
   }
   
   //Draw a line to show where in the song playback is currently located
-  float posx = map(song1.position(), 0, song1.length(), 0, 512); //Width=512
+  float posx = map(song1.position(), 0, song1.length(), 50, 612);
   stroke(0,200,0);
-  line(posx, 0, posx, 200); //Height=200
+  line(posx, 0, posx, 200);
   
   //Draw text depending on whether music is playing
   if ( song1.isPlaying() )
