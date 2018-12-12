@@ -9,8 +9,6 @@ import ddf.minim.ugens.*;
 //Global Variables
 Minim minim;
 AudioPlayer song1;
-Boolean looping = false;
-int loopNum = 0;
 
 void setup() {
   //size(): Console output, not visual data, text promptos only, not complete yet
@@ -20,32 +18,38 @@ void setup() {
 
   println("Start of Console");
   println("Click the Console to Finish Starting this program");
-  println("Press l or L to turn ON and OFF LOOP.");
+  println("Press l or L to turn ON and OFF LOOP Once.");
 }
 
 void draw() {
-  while (looping == true && loopNum == 1) {
-      println ("while", looping, loopNum);
-      song1.loop(loopNum);
-    }
 }
 
 void mousePressed() {
 }
 
 void keyPressed() {
-  println ("keyPressed", looping, loopNum);
-  if ( key == 'l' || key == 'L') {
-    println ("l", looping, loopNum);
-    if (looping == false) {
-      println ("true", looping, loopNum);
-      looping = true;
-      loopNum = 1;
+  println ("keyPressed");
+  if (key == 'p' || key == 'P') {
+    if ( song1.isPlaying() ) {
+      song1.pause();
+    } else if ( song1.position() == song1.length() ) {
+      song1.rewind();
+      song1.play();
     } else {
-      println ("false", looping, loopNum);
-      looping = false;
-      loopNum = 0;
-      song1.loop(loopNum);
+      song1.play();
+    }
+  }
+  if ( key == 'l' || key == 'L') {
+    println ("Pressed l or L");
+    if ( song1.isPlaying() ) {
+      println ("isPlaying", song1.isPlaying());
+      if (song1.isLooping()) {
+        println ("isLooping()", song1.isLooping());
+        song1.play();
+      }
+    } else {
+      println ("isPlaying", song1.isPlaying());
+      song1.loop();
     }
   }
 }
