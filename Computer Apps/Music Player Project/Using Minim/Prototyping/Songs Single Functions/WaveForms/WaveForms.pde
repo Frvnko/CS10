@@ -33,16 +33,16 @@ void draw() {
   
   for(int i = 0; i < song1.bufferSize() - 1; i++)
   {
-    float x1 = map( i, 0, song1.bufferSize(), 0, width );
-    float x2 = map( i+1, 0, song1.bufferSize(), 0, width );
+    float x1 = map( i, 0, song1.bufferSize(), 0, 512 ); //Width=512
+    float x2 = map( i+1, 0, song1.bufferSize(), 0, 512 ); //Width=512
     line( x1, 50 + song1.left.get(i)*50, x2, 50 + song1.left.get(i+1)*50 );
     line( x1, 150 + song1.right.get(i)*50, x2, 150 + song1.right.get(i+1)*50 );
   }
   
   //Draw a line to show where in the song playback is currently located
-  float posx = map(song1.position(), 0, song1.length(), 0, width);
+  float posx = map(song1.position(), 0, song1.length(), 0, 512); //Width=512
   stroke(0,200,0);
-  line(posx, 0, posx, height);
+  line(posx, 0, posx, 200); //Height=200
   
   //Draw text depending on whether music is playing
   if ( song1.isPlaying() )
