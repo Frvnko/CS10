@@ -218,3 +218,11 @@ To Do List
            must reflect this
   CAUTION: post-procedural algorithm
 - Change IF-Statements to Switch-Case-Break-Default
+
+Advanced Algorithm: play each song, one after another, without user intervention (play, next, etc.)
+- Following algorithm goes in draw() since questions must be asked all the time
+- Ask is the song playing ... when answer is no ... ask is it at the end of the file ...
+- When the answer is yes, rewind the current song and auto play the next song 
+- Possible bug: if, for whatever reason, song is fast-forwarded to the end of the file, then the next song will automatically play
+- Solution: create a Boolean when a song is fast forwarded to the end of a song, it turns off the autoplay until user intervention is initiated to play the next song
+- Alternate solution: ignore this bug since it's behavior is so rare
