@@ -99,3 +99,5 @@ Final Exam: Music Player
 Final Exam Alternates
 - Side-loading main program to Android device (finishing the course with exploring content ownership, ethics, and device permissions)
 - Creating a different project without project management from Mr. Mercer
+
+Special Effects: on Processing Website, Image fades in and out
