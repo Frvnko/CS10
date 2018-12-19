@@ -79,3 +79,23 @@ Images (needs WHILE Loops, FOR Loops gets too complicated
 - these steps are repeated
 - these repetitions are a FOR Loop
 - Students do this all the time with Guess and Check
+
+Final Exam: Music Player
+- GUI design: mix of mouse-based (touch screen) buttons with 2D Shapes creating user experience
+- Understanding how a MAIN file will organize code, in a general sense
+  - Global Variables, Local Variables
+  - Java Compiler requirements: Folder Name, void setup(), and void draw()
+  - Additional Listeners: keyPressed, mouseClicked, etc.
+- Demonstrating general behaviors:
+  - play & pause
+  - stop
+  - next & previous
+  - organization of multiple songs
+  - organization of sound effects
+- Using prototyped programs and lessons to build similarly coded features from Case Study
+- Incorporating text and images
+- Utilizing ratios and program-display geometry in visual data rendering
+
+Final Exam Alternates
+- Side-loading main program to Android device (finishing the course with exploring content ownership, ethics, and device permissions)
+- Creating a different project without project management from Mr. Mercer
