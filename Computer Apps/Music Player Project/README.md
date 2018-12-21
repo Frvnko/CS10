@@ -122,4 +122,10 @@ Lesson: one button for play-pause, one button for sound effect and exit()
 
 Lesson: putting all console prototyping together
 
+Case Study must include
+- Play, Pause, Stop, Next, Previous
+- 3 Music Songs
+- 3 Sound Effects
+- 5 extra behaviors or buttons
+
 ---
