@@ -82,12 +82,14 @@ Images (needs WHILE Loops, FOR Loops gets too complicated
 
 Final Exam: Music Player
 - GUI design: mix of mouse-based (touch screen) buttons with 2D Shapes creating user experience
+  - Including Images and Colours
+  - Random Feature (must be included somewhere, even in randomized colours)
 - Understanding how a MAIN file will organize code, in a general sense
   - Global Variables, Local Variables
   - Java Compiler requirements: Folder Name, void setup(), and void draw()
   - Additional Listeners: keyPressed, mouseClicked, etc.
 - Demonstrating general behaviors:
-  - play & pause
+  - Power Button (exit)- play & pause
   - stop
   - next & previous
   - organization of multiple songs

@@ -16,9 +16,10 @@ Students Demonstrate
 - Animation, for example snow mimicking Happy Face and Measles, <a href="">Click Here</a>
 - Random Function: include this to affect a behviour
   - randomizing colours
+  - must include this feature or behaviour
 
 Extra: connecting mouseX&Y key variables
-- connect to colour changes 
+- connect to colour changes
 
 Grading will depend on imagination and creativity, specifically a case study that is different than all classroom examples in Mercer's Kitchen
 
